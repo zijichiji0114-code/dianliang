@@ -1,0 +1,11 @@
+{
+  "source": "AWS Terrarium tiles (Mapzen/Nextzen elevation, zoom 5)",
+  "west": 72.2,
+  "south": 16.6,
+  "east": 136.4,
+  "north": 54.8,
+  "width": 720,
+  "height": 460,
+  "min": 0.0,
+  "max": 5505.8056640625
+}

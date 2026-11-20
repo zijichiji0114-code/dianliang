@@ -1,0 +1,3453 @@
+{
+  "上海市": {
+    "province": "上海市",
+    "spots": [
+      {
+        "name": "黄浦滨江绿道",
+        "desc": "上海市文化旅游局推荐。北起外白渡桥、南至日晖港桥，沿线可看江景与春花，并经过上海当代艺术博物馆、世博会博物馆等。",
+        "distance": "全长8.3公里",
+        "difficulty": "",
+        "source": "http://sh.people.com.cn/n2/2026/0325/c134768-41533833.html"
+      },
+      {
+        "name": "长宁外环绿道",
+        "desc": "长宁外环林带绿道，北至苏州河、南近沪青平公路，途经河流湿地，大部分路段有绿荫覆盖。",
+        "distance": "全长6.25公里",
+        "difficulty": "",
+        "source": "http://sh.people.com.cn/n2/2026/0325/c134768-41533833.html"
+      },
+      {
+        "name": "浦东滨江绿道",
+        "desc": "北起杨浦大桥、南至闵行区界，途经陆家嘴、世博公园、后滩公园、前滩公园等，为上海唯一全程封闭式骑行道。",
+        "distance": "全长24公里",
+        "difficulty": "",
+        "source": "http://sh.people.com.cn/n2/2026/0325/c134768-41533833.html"
+      }
+    ]
+  },
+  "丽江市": {
+    "province": "云南省",
+    "spots": [
+      {
+        "name": "环拉市海",
+        "desc": "环拉市海骑行，沿途可随时停看湖泊与田园风景，是丽江常见的休闲骑行选择。",
+        "distance": "",
+        "difficulty": "",
+        "source": "https://you.ctrip.com/travels/yunnan100007/4161754.html"
+      }
+    ]
+  },
+  "大理白族自治州": {
+    "province": "云南省",
+    "spots": [
+      {
+        "name": "洱海生态廊道（龙龛—才村）",
+        "desc": "沿洱海生态廊道的骑行道骑行，可从龙龛码头前往才村湿地，沿途有湖岸、芦苇和田园风光。",
+        "distance": "约8公里",
+        "difficulty": "",
+        "source": "https://www.yunnanplay.com/post/%E4%BA%91%E5%8D%977%E5%A4%A9%E7%BB%8F%E5%85%B8%E7%8E%AF%E7%BA%BF%EF%BC%9A%E6%98%86%E6%98%8E-%E5%A4%A7%E7%90%86-%E4%B8%BD%E6%B1%9F-%E9%A6%99%E6%A0%BC%E6%A0%BC%E9%87%8C%E6%8B%89%EF%BC%8C%E4%BF%9D%E5%A7%86/"
+      }
+    ]
+  },
+  "怒江傈僳族自治州": {
+    "province": "云南省",
+    "spots": [
+      {
+        "name": "泸水六库—丙中洛美丽公路",
+        "desc": "沿怒江美丽公路骑行，途经碧罗雪山、石月亮、老虎跳等著名节点，是怒江大峡谷的经典长途线路。",
+        "distance": "288.3公里",
+        "difficulty": "",
+        "source": "https://culture.yunnan.cn/system/2024/07/25/033158723.shtml"
+      }
+    ]
+  },
+  "昆明市": {
+    "province": "云南省",
+    "spots": [
+      {
+        "name": "环滇池骑行",
+        "desc": "昆明文旅介绍的最美骑行路线之一，道路较平坦宽阔，沿途可远眺西山、近看滇池。",
+        "distance": "全程约120公里，其中近50公里有自行车道",
+        "difficulty": "道路平坦宽阔，适合入门级新手",
+        "source": "https://mp.weixin.qq.com/s/H19r0BhYoOMkdTAy22c6hA"
+      },
+      {
+        "name": "西山骑行",
+        "desc": "昆明经典爬坡线路，骑上西山后可俯瞰滇池和城区，后山可经猫猫箐、导航站、小石林游览区。",
+        "distance": "全程约25公里",
+        "difficulty": "爬坡路段，被骑友称为“肌肉路段”",
+        "source": "https://mp.weixin.qq.com/s/H19r0BhYoOMkdTAy22c6hA"
+      },
+      {
+        "name": "盘龙江夜景骑行",
+        "desc": "主要沿盘龙江景观带骑行，适合从黄昏开始，观看沿江夜景。",
+        "distance": "",
+        "difficulty": "",
+        "source": "https://mp.weixin.qq.com/s/H19r0BhYoOMkdTAy22c6hA"
+      }
+    ]
+  },
+  "迪庆藏族自治州": {
+    "province": "云南省",
+    "spots": [
+      {
+        "name": "环纳帕海",
+        "desc": "在香格里拉环纳帕海骑行，沿途为高原草甸与村落风光，可结合松赞林寺一带道路。",
+        "distance": "",
+        "difficulty": "",
+        "source": "https://you.ctrip.com/travels/yunnan100007/4161754.html"
+      }
+    ]
+  },
+  "呼伦贝尔市": {
+    "province": "内蒙古自治区",
+    "spots": [
+      {
+        "name": "环呼伦湖自行车赛赛道",
+        "desc": "从新巴尔虎右旗多蓝广场出发，沿呼伦湖西岸经331公路、成吉思汗拴马桩至东庙嘎查，全程86公里。",
+        "distance": "86公里",
+        "difficulty": "",
+        "source": "https://www.sport.gov.cn/n20001280/n20001265/n20067706/c29031721/content.html"
+      },
+      {
+        "name": "漠满公路",
+        "desc": "经典走向为漠河—满归—金河—莫尔道嘎—室韦—黑山头—满洲里，全程约820公里。",
+        "distance": "约820公里",
+        "difficulty": "",
+        "source": "https://www.8264.com/youji/5770282.html"
+      },
+      {
+        "name": "海拉尔—额尔古纳骑行线",
+        "desc": "从海拉尔站出发骑至额尔古纳市，单日约127公里，是海拉尔—根河—哈尔滨长途的首段。",
+        "distance": "127公里",
+        "difficulty": "",
+        "source": "https://www.8264.com/youji/5752747.html"
+      },
+      {
+        "name": "大雁五泉山",
+        "desc": "位于呼伦贝尔草原与大兴安岭交汇处的五泉山，可爬坡及玩XC、速降，沿途有天然冷泉。",
+        "distance": "",
+        "difficulty": "",
+        "source": "https://www.biketo.com/tour/31777.html"
+      }
+    ]
+  },
+  "呼和浩特市": {
+    "province": "内蒙古自治区",
+    "spots": [
+      {
+        "name": "敕勒川草原骑行绿道",
+        "desc": "以呼和塔拉大街为轴，东起敕勒川国家草原自然公园、西至吉沙公园，环线约70公里。",
+        "distance": "约70公里",
+        "difficulty": "",
+        "source": "https://m.thepaper.cn/newsDetail_forward_28872439"
+      },
+      {
+        "name": "大黑河滨水绿道",
+        "desc": "位于城区南部大黑河两岸，东起大黑河军事文化乐园、西至103省道，环线约70公里。",
+        "distance": "约70公里",
+        "difficulty": "",
+        "source": "https://m.thepaper.cn/newsDetail_forward_28872439"
+      },
+      {
+        "name": "环城河绿道",
+        "desc": "沿环城水带两岸的U型滨水绿道，东起哈拉沁生态公园、西至坝口子沟，环线约79.8公里。",
+        "distance": "约79.8公里",
+        "difficulty": "",
+        "source": "https://m.thepaper.cn/newsDetail_forward_28872439"
+      },
+      {
+        "name": "呼武公路",
+        "desc": "呼和浩特至武川的风景山路，一路上坡可达蜈蚣坝革命根据地，是骑友常走的爬坡路线。",
+        "distance": "",
+        "difficulty": "",
+        "source": "https://www.biketo.com/tour/31777.html"
+      },
+      {
+        "name": "大青山乌素图沟白道梁",
+        "desc": "位于大青山乌素图沟的爬坡路线，平均坡度10%，可一路骑至山顶俯瞰呼和浩特全城。",
+        "distance": "",
+        "difficulty": "",
+        "source": "https://www.biketo.com/tour/31777.html"
+      }
+    ]
+  },
+  "北京市": {
+    "province": "北京市",
+    "spots": [
+      {
+        "name": "三山五园绿道",
+        "desc": "北起玉泉山、南至闵庄路，东至海淀公园、西至香山路，串联颐和园、圆明园、香山等名园，全长36.09公里。",
+        "distance": "36.09公里",
+        "difficulty": "",
+        "source": "https://xinwen.bjd.com.cn/content/s6502f30ae4b0a395ca4cb89f.html"
+      },
+      {
+        "name": "环二环滨水步道与城市绿道",
+        "desc": "沿二环护城河布设，串联天坛、雍和宫等40余处古迹，80公里步道与绿道全线连通，可绕二环骑行。",
+        "distance": "80公里",
+        "difficulty": "",
+        "source": "https://www.beijing.gov.cn/ywdt/gzdt/202412/t20241226_3973906.html"
+      },
+      {
+        "name": "妙峰山路骑行路线",
+        "desc": "以妙峰山牌楼为起点，沿妙峰山路登顶，全长19.7公里、累计爬升868米，后半程坡度急剧上升。",
+        "distance": "19.7公里",
+        "difficulty": "",
+        "source": "https://www.bjmtg.gov.cn/bjmtg/c102697/202512/6d9d48162740477392cd738366a80699.shtml"
+      },
+      {
+        "name": "北运河骑行系统",
+        "desc": "从运河东大街桥至武窑桥，全长36公里，左岸设约10公里专业骑行道，适宜郊野骑行。",
+        "distance": "36公里",
+        "difficulty": "",
+        "source": "https://swj.beijing.gov.cn/bmxx/shms/bsbdjs/202305/t20230512_3102609.html"
+      },
+      {
+        "name": "温榆河滨水绿道",
+        "desc": "沿温榆河布设，途经昌平、顺义、朝阳、通州四区，绿道总长度108公里，属滨水型绿道。",
+        "distance": "108公里",
+        "difficulty": "",
+        "source": "https://m.bj.bendibao.com/mip/291140.html"
+      }
+    ]
+  },
+  "台东县": {
+    "province": "台湾省",
+    "spots": [
+      {
+        "name": "池上环乡自行车道",
+        "desc": "从池上车站出发，串联大坡池、浮圳与伯朗大道等地，是台东著名的田园自行车道。",
+        "distance": "约34公里",
+        "difficulty": "",
+        "source": "https://www.womenshealthmag.com/tw/mental/gotravel/g46280676/2024-bike-routes-recommend/"
+      }
+    ]
+  },
+  "台北": {
+    "province": "台湾省",
+    "spots": [
+      {
+        "name": "淡水河滨自行车道",
+        "desc": "沿淡水河骑行，常见走法是从大稻埕码头前往淡水，路面平坦，适合休闲骑行。",
+        "distance": "约16至19.6公里",
+        "difficulty": "平坦",
+        "source": "https://searchtw.com/articles/taiwan-cycling-routes/"
+      }
+    ]
+  },
+  "台北市": {
+    "province": "台湾省",
+    "spots": [
+      {
+        "name": "淡水河滨自行车道",
+        "desc": "沿淡水河骑行，常见走法是从大稻埕码头前往淡水，路面平坦，适合休闲骑行。",
+        "distance": "约16至19.6公里",
+        "difficulty": "平坦",
+        "source": "https://searchtw.com/articles/taiwan-cycling-routes/"
+      }
+    ]
+  },
+  "花莲县": {
+    "province": "台湾省",
+    "spots": [
+      {
+        "name": "石门—长滨自行车道",
+        "desc": "东部海岸国家风景区介绍的自行车主题线路，途经石梯坪、长虹桥、八仙洞等海岸景点。",
+        "distance": "27公里",
+        "difficulty": "",
+        "source": "https://www.eastcoast-nsa.gov.tw/zh-tw/travel/bike-themes/"
+      }
+    ]
+  },
+  "高雄市": {
+    "province": "台湾省",
+    "spots": [
+      {
+        "name": "爱河自行车道",
+        "desc": "高雄旅遊網介绍的都会水岸自行车道，可沿爱河两岸骑行，途经光荣码头等节点。",
+        "distance": "约10公里",
+        "difficulty": "",
+        "source": "https://khh.travel/zh-tw/column/5710/"
+      },
+      {
+        "name": "旗津环岛自行车道",
+        "desc": "环旗津半岛骑行，是高雄经典的海滨自行车路线。",
+        "distance": "约17公里",
+        "difficulty": "",
+        "source": "https://khh.travel/zh-tw/column/5710/"
+      }
+    ]
+  },
+  "吉林市": {
+    "province": "吉林省",
+    "spots": [
+      {
+        "name": "松花江畔线",
+        "desc": "吉林省文化和旅游厅推荐：从龙潭山公园经朱雀山森林公园至松花湖国家风景名胜区，沿松花江与湖岸骑行。",
+        "distance": "约30公里",
+        "difficulty": "",
+        "source": "https://view.inews.qq.com/a/20240508A091X800"
+      }
+    ]
+  },
+  "延边朝鲜族自治州": {
+    "province": "吉林省",
+    "spots": [
+      {
+        "name": "延吉—帽儿山—图们骑行线",
+        "desc": "从延吉金达莱广场出发，经帽儿山再沿边境方向至图们广场，途中可远眺中朝边境风光；接近终点前有日光山爬坡段。",
+        "distance": "全程约98公里（延吉至帽儿山约42公里）",
+        "difficulty": "接近终点前日光山约3公里、坡度近10%",
+        "source": "https://www.thepaper.cn/newsDetail_forward_4224829"
+      }
+    ]
+  },
+  "长春市": {
+    "province": "吉林省",
+    "spots": [
+      {
+        "name": "净月潭环线",
+        "desc": "吉林省文化和旅游厅推荐路线：正门—女神广场—碧松净月塔楼—湿地公园—森林浴场—小森林浴场—正门。景区内可租车，社会车辆禁入。",
+        "distance": "约20公里",
+        "difficulty": "",
+        "source": "https://view.inews.qq.com/a/20240508A091X800"
+      },
+      {
+        "name": "伊通河环线",
+        "desc": "沿长春母亲河伊通河骑行，途经长春工业轨迹公园、月荷文化公园和南溪湿地公园。",
+        "distance": "约24公里",
+        "difficulty": "",
+        "source": "https://view.inews.qq.com/a/20240508A091X800"
+      }
+    ]
+  },
+  "乐山市": {
+    "province": "四川省",
+    "spots": [
+      {
+        "name": "沙湾生态大道",
+        "desc": "可从安谷电站大坝一带沿生态大道骑向沫若戏剧文创园，结合湿地与库区风光。",
+        "distance": "",
+        "difficulty": "",
+        "source": "https://news.qq.com/rain/a/20231128A08HIW00"
+      }
+    ]
+  },
+  "成都市": {
+    "province": "四川省",
+    "spots": [
+      {
+        "name": "天府绿道100公里环线",
+        "desc": "沿绕城高速修建的城市环城绿道，串联锦城湖、青龙湖、白鹭湾湿地等大量公园，平路占比较高，是成都最知名的骑行环线之一。",
+        "distance": "总长约100公里（有记录作123.5公里）",
+        "difficulty": "全程平路约60%，上坡约20%，下坡约20%",
+        "source": "https://news.dayoo.com/gzrbrmt/202505/20/170645_54827473.htm"
+      }
+    ]
+  },
+  "甘孜藏族自治州": {
+    "province": "四川省",
+    "spots": [
+      {
+        "name": "川藏南线（G318）康定—新都桥段",
+        "desc": "318川藏南线经泸定、康定、新都桥等地，是经典进藏骑行路段，沿途有河谷、折多山和摄影风光。",
+        "distance": "",
+        "difficulty": "高原长途，需做好海拔与补给准备",
+        "source": "https://www.biketo.com/tour/32892.html"
+      }
+    ]
+  },
+  "雅安市": {
+    "province": "四川省",
+    "spots": [
+      {
+        "name": "川藏南线起点（雅安段）",
+        "desc": "经典川藏南线骑行多从雅安起步，再经泸定、康定向西，是许多骑友进藏的起始路段。",
+        "distance": "",
+        "difficulty": "长途骑行起始段",
+        "source": "https://www.biketo.com/tour/32892.html"
+      }
+    ]
+  },
+  "天津市": {
+    "province": "天津市",
+    "spots": [
+      {
+        "name": "海河蓝丝带骑行道",
+        "desc": "沿天津海河两岸铺设的休闲骑行道，二期由解放桥至刘庄浮桥，与一期衔接后全长22.8公里。",
+        "distance": "22.8公里",
+        "difficulty": "",
+        "source": "https://city.cri.cn/20241010/b43ecd4a-b9e3-63ec-1472-3430d29bfbe7.html"
+      },
+      {
+        "name": "五大道复古骑行路线",
+        "desc": "从睦南花园出发，经五大道、北安桥、泰安道、安里甘教堂至樘院，全程约9.92公里。",
+        "distance": "约9.92公里",
+        "difficulty": "",
+        "source": "https://epaper.tianjinwe.com/tjrb/h5/html5/2025-04/22/content_143088_2095898.htm"
+      },
+      {
+        "name": "环团泊湖骑行路线",
+        "desc": "环静海团泊湖设置，职业赛全程183.9公里，大众骑游组环湖赛道40公里，路况优良。",
+        "distance": "40公里（大众骑游组）",
+        "difficulty": "",
+        "source": "https://www.sport.gov.cn/n20001280/n20067662/n20067613/c29619876/content.html"
+      },
+      {
+        "name": "潮白河骑行路线",
+        "desc": "潮白河沿线绿道骑行，全程约40公里，为进阶版路线，可在蜿蜒绿道上骑行。",
+        "distance": "40公里",
+        "difficulty": "",
+        "source": "https://m.qibuluo.com/view/1485682.html"
+      }
+    ]
+  },
+  "银川市": {
+    "province": "宁夏回族自治区",
+    "spots": [
+      {
+        "name": "阅海环湖绿道",
+        "desc": "环阅海湖骑行，是银川适合城市休闲骑行的绿道之一，对新手较友好。",
+        "distance": "约20公里",
+        "difficulty": "新手友好",
+        "source": "https://www.thepaper.cn/newsDetail_forward_28942700"
+      }
+    ]
+  },
+  "合肥市": {
+    "province": "安徽省",
+    "spots": [
+      {
+        "name": "环巢湖骑行绿道（巢湖岸线绿道）",
+        "desc": "合肥轨道5号线渡江纪念馆站紧邻巢湖岸线绿道入口，沿湖可看八百里湖天、红石咀沙滩、明珠码头等景观。",
+        "distance": "",
+        "difficulty": "",
+        "source": "https://www.163.com/dy/article/KQQ3P0C40514G9RM.html"
+      },
+      {
+        "name": "翡翠湖爱心环线",
+        "desc": "从3号线安大磬苑校区站可直达，环湖路线在空中俯瞰呈心形，湖畔有光带，是合肥热门休闲骑行环线。",
+        "distance": "13.14公里",
+        "difficulty": "",
+        "source": "https://www.163.com/dy/article/KNP06DK40514G9RM.html"
+      },
+      {
+        "name": "南淝河码头绿道",
+        "desc": "由昔日货场码头改造而成的亲水生态绿廊，沿河畔骑行有彩虹跑道，旁边有大草坪可休息。",
+        "distance": "",
+        "difficulty": "",
+        "source": "https://www.163.com/dy/article/KNP06DK40514G9RM.html"
+      },
+      {
+        "name": "紫蓬山旅游风景道",
+        "desc": "2025“中国皖美山水”骑行赛合肥紫蓬山站的48公里赛道主线，贯穿紫蓬山旅游风景道，串联江淮分水岭生态景观与肥西圩堡群落。",
+        "distance": "48公里",
+        "difficulty": "",
+        "source": "https://local.cctv.com/2025/11/17/ARTIEnagiteqczQrsFACHkgH251117.shtml"
+      }
+    ]
+  },
+  "芜湖市": {
+    "province": "安徽省",
+    "spots": [
+      {
+        "name": "奎湖环湖绿道",
+        "desc": "奎湖省级湿地公园的环湖道路，主路加绿道宽12.5米、绿道宽3.5米，沿线有六座拱桥、观鸟台、湿地科普馆等。",
+        "distance": "约12公里",
+        "difficulty": "",
+        "source": "https://jp.trip.com/moments/detail/nanling-1445976-153537931/"
+      },
+      {
+        "name": "芜当江堤（青弋江畔）",
+        "desc": "青弋江畔的江堤，堤顶路面平整开阔、无机动车干扰，通常从棠梅园A区南门对面入口上堤，可一直骑到青弋江大桥下。",
+        "distance": "",
+        "difficulty": "",
+        "source": "https://finance.sina.com.cn/wm/2026-10-08/doc-iniupnux4360068.shtml"
+      },
+      {
+        "name": "“醉美江湾”骑行线",
+        "desc": "依托十里江湾骑行道、毓秀路、漳河堤坝路等道路，串联十里江湾公园、松鼠小镇等节点。",
+        "distance": "10公里",
+        "difficulty": "",
+        "source": "https://news.qq.com/rain/a/20241216A0936Q00"
+      }
+    ]
+  },
+  "黄山市": {
+    "province": "安徽省",
+    "spots": [
+      {
+        "name": "黟县BCE221乡野骑行道",
+        "desc": "以黟县古城为起点逆时针环县城，串联西递、宏村、南屏、屏山、碧山、关麓、秀里、塔川、卢村等古村落，含土路、碎石路、林间小道与茶园小径。",
+        "distance": "42公里",
+        "difficulty": "",
+        "source": "https://finance.sina.com.cn/jjxw/2025-03-25/doc-ineqvvks5935013.shtml"
+      },
+      {
+        "name": "太平湖环湖骑行线",
+        "desc": "83公里环湖路串联22道弯、草原与古村；北岸线为太平湖沐心酒店—龙门隧道—苏雪林故居，西岸线为水上运动中心—白鹭洲—曹家莊驛站。",
+        "distance": "83公里",
+        "difficulty": "",
+        "source": "https://hk.trip.com/moments/detail/huangshan-city-120061-137007102/"
+      },
+      {
+        "name": "黄山1号风景道",
+        "desc": "黄山区境内的闭环型风景道，途经甘棠镇、焦村镇、乌石镇和太平湖镇，串联浦溪河休闲旅游区、黄山西大门、太平湖风景区及“醉美”218精华路段。",
+        "distance": "98公里",
+        "difficulty": "",
+        "source": "https://www.news.cn/2021-11/25/c_1128099258.htm"
+      }
+    ]
+  },
+  "威海市": {
+    "province": "山东省",
+    "spots": [
+      {
+        "name": "千里山海自驾旅游公路",
+        "desc": "由东部环海路和西部环山路组成的山海景观公路，串联小石岛、猫头山、国际海水浴场、半月湾、那香海、成山头等节点，适合骑行。",
+        "distance": "",
+        "difficulty": "",
+        "source": "https://res.sdta.cn/article/1779087985.html"
+      },
+      {
+        "name": "威海市区环海路",
+        "desc": "沿山势起伏的市区环海路，串联小石岛、猫头山、国际海水浴场、半月湾，一侧悬崖下海浪拍礁、一侧山林，路况平整。",
+        "distance": "",
+        "difficulty": "",
+        "source": "https://res.sdta.cn/article/1779087985.html"
+      },
+      {
+        "name": "那香海—布鲁威斯沉船海岸段",
+        "desc": "千里山海公路的荣成段，沿途有金黄沙滩、白色风车，那香海森林与碧海交织，布鲁威斯沉船形成工业风海景。",
+        "distance": "",
+        "difficulty": "",
+        "source": "https://res.sdta.cn/article/1779087985.html"
+      },
+      {
+        "name": "成山头",
+        "desc": "千里山海公路南段的“天尽头”，山海相拥，是威海环海骑行的重要目的地。",
+        "distance": "",
+        "difficulty": "",
+        "source": "https://res.sdta.cn/article/1779087985.html"
+      }
+    ]
+  },
+  "日照市": {
+    "province": "山东省",
+    "spots": [
+      {
+        "name": "阳光海岸绿道",
+        "desc": "南起日出东方灯塔广场、北至两城河口国家湿地公园的海岸绿道，含跑步道、自行车道、飘桥等设施，曾获评中国体育旅游精品线路。",
+        "distance": "约28公里",
+        "difficulty": "",
+        "source": "https://www.cnr.cn/sd/stwl/20251210/t20251210_527454997.shtml"
+      },
+      {
+        "name": "山海风情绿道（五莲段）",
+        "desc": "省级体育旅游精品线路，连接日照海滨与五莲山，五莲段赛道约20公里，沿途青山环抱、绿水相依。",
+        "distance": "约20公里",
+        "difficulty": "",
+        "source": "https://iapp.rzdgrmt.cn/share/YS0zNDktNDMwMjk3MzI.html"
+      },
+      {
+        "name": "日照滨海骑行线（多岛海—万平口—海滨国家森林公园）",
+        "desc": "从多岛海景区出发，沿多岛海大道、海滨路、碧海路，经刘家湾赶海园、万平口、日照海洋公园、桃花岛至日照海滨国家森林公园。",
+        "distance": "约70公里",
+        "difficulty": "",
+        "source": "https://m.maigoo.com/goomai/182204.html"
+      }
+    ]
+  },
+  "泰安市": {
+    "province": "山东省",
+    "spots": [
+      {
+        "name": "天平湖环湖赛道",
+        "desc": "泰安天平湖环湖公路，曾举办全国自行车泰山挑战赛，公路赛每圈9.5公里，赛道海拔在60米至210米之间。",
+        "distance": "9.5公里/圈",
+        "difficulty": "",
+        "source": "https://big5.cctv.com/gate/big5/sports.cctv.cn/2017/04/18/ARTIpuAqXUGaC6FXjRPDIxCw170418.shtml"
+      },
+      {
+        "name": "环泰山风光旅游绿道",
+        "desc": "泰安规划的四条主线绿道之一，环绕泰山风景名胜区，骑行途中可领略泰山周边的山水风光。",
+        "distance": "",
+        "difficulty": "",
+        "source": "https://taian.dzwww.com/2013sy/taxw/201603/t20160323_14037383.html"
+      },
+      {
+        "name": "泮河两岸亲水休闲绿道",
+        "desc": "沿泮河两岸布设的亲水休闲绿道，首期工程全长6.12公里，实现全程无障碍通行，并增设自行车标识和限速标识。",
+        "distance": "6.12公里",
+        "difficulty": "",
+        "source": "http://sd.sina.com.cn/taian/travel/cxgl/2014-07-11/1404-1451.html"
+      },
+      {
+        "name": "环徂徕山旅游绿道",
+        "desc": "泰安规划的四条主线绿道之一，环绕徂徕山，串联山林与周边乡村旅游资源。",
+        "distance": "",
+        "difficulty": "",
+        "source": "https://taian.dzwww.com/2013sy/taxw/201603/t20160323_14037383.html"
+      }
+    ]
+  },
+  "济南市": {
+    "province": "山东省",
+    "spots": [
+      {
+        "name": "西营绿道",
+        "desc": "济南南部山区的经典骑游绿道，串联狼猫山水库、玉河泉泉群、拔槊泉、七星台、九如山、红叶谷等山水景点，沿途设驿站，分为Ⅱ级、Ⅲ级绿道。",
+        "distance": "约120公里",
+        "difficulty": "",
+        "source": "https://m.maigoo.com/goomai/182204.html"
+      },
+      {
+        "name": "华山湖环湖路",
+        "desc": "华山历史文化湿地公园环湖路，9.5公里全线贯通，环绕2.25平方公里湖面，串联山水人文景观，适合休闲骑行。",
+        "distance": "9.5公里",
+        "difficulty": "",
+        "source": "http://news.e23.cn/jnnews/2025-04-11/2025041100177.html"
+      },
+      {
+        "name": "玉符河滨水绿道",
+        "desc": "玉符河宅科村河段的滨水绿道，按步行与骑行综合规划，沿河道自然延伸，配套休憩设施。",
+        "distance": "1.1公里",
+        "difficulty": "",
+        "source": "http://news.e23.cn/jnnews/2025-08-07/2025080700227.html"
+      },
+      {
+        "name": "黄河百里景观带骑行线",
+        "desc": "从济西国家湿地公园出发，经黄河百里景观带、泺口黄河铁路大桥，至济南黄河凤凰大桥的黄河大堤骑行线。",
+        "distance": "约30公里",
+        "difficulty": "",
+        "source": "https://news.qq.com/rain/a/20250327A0684V00"
+      }
+    ]
+  },
+  "烟台市": {
+    "province": "山东省",
+    "spots": [
+      {
+        "name": "烟台滨海一线超级绿道",
+        "desc": "规划中的滨海慢行系统，西起烟台站、东至沁水河口里蹦岛，贯穿芝罘、莱山、高新区、牟平的滨海地带，串联烟台十八景。",
+        "distance": "约35公里",
+        "difficulty": "",
+        "source": "https://www.yantai.gov.cn/art/2024/8/8/art_11748_3208217.html"
+      },
+      {
+        "name": "养马岛环岛路",
+        "desc": "养马岛环岛骑行路，路面平坦开阔，一侧是海水、一侧是草地与欧式建筑，是烟台热门的环岛骑行线。",
+        "distance": "约20公里",
+        "difficulty": "",
+        "source": "https://res.sdta.cn/article/1779087985.html"
+      },
+      {
+        "name": "芝罘—牟平沿海线",
+        "desc": "从第一海水浴场出发，沿芝罘—莱山—牟平一线向东，经东炮台、月亮湾、渔人码头、烟大海水浴场、烟台自然博物馆至养马岛。",
+        "distance": "",
+        "difficulty": "",
+        "source": "https://res.sdta.cn/article/1779087985.html"
+      },
+      {
+        "name": "烟台滨海仙境海岸线（养马岛—烟台山—金沙滩—蓬莱阁）",
+        "desc": "山东半岛仙境海岸的烟台段，沿G228滨海公路和滨海路串联养马岛、烟台山、金沙滩，终至蓬莱阁。",
+        "distance": "约180公里",
+        "difficulty": "",
+        "source": "https://m.maigoo.com/goomai/182204.html"
+      }
+    ]
+  },
+  "青岛市": {
+    "province": "山东省",
+    "spots": [
+      {
+        "name": "环崂山骑行线",
+        "desc": "以石老人为起终点，经沙子口、仰口、雕龙嘴、返岭村、青山村、太清宫、大河东的环崂山经典线路，一面靠山、一面临海。",
+        "distance": "约80公里",
+        "difficulty": "",
+        "source": "https://m.maigoo.com/goomai/182204.html"
+      },
+      {
+        "name": "唐岛湾滨海骑行道",
+        "desc": "西海岸唐岛湾一带的滨海骑行道，串联唐岛湾南北岸公园、银沙滩、鱼鸣嘴、连三岛等海滨景点。",
+        "distance": "",
+        "difficulty": "",
+        "source": "https://m.maigoo.com/goomai/182204.html"
+      },
+      {
+        "name": "莱西湖环湖绿道",
+        "desc": "环莱西湖的高标准生态绿道，与环湖公路顺畅衔接，曾获评山东省“最美骑行路”，是环莱西湖自行车赛的赛道。",
+        "distance": "约31公里",
+        "difficulty": "",
+        "source": "https://epaper.qingdaonews.com/qdrb/html/2026-06/03/content_144592_3498169.htm"
+      },
+      {
+        "name": "滨海绿道（钻石公园—李村河入海口段）",
+        "desc": "青岛新改建滨海绿道，设滨海自行车道、慢跑道和漫步道，串联鸥声芦苇、滨海雨霁、岸屿夜月三大主题公园。",
+        "distance": "",
+        "difficulty": "",
+        "source": "https://epaper.qingdaonews.com/qdrb/html/2026-06/03/content_144592_3498169.htm"
+      },
+      {
+        "name": "即墨莲花山自行车运动公园",
+        "desc": "依托山水田园地貌打造的郊野自行车运动公园，整合周边林地、稻田、村落资源，设有专门的骑行空间。",
+        "distance": "",
+        "difficulty": "",
+        "source": "https://epaper.qingdaonews.com/qdrb/html/2026-06/03/content_144592_3498169.htm"
+      }
+    ]
+  },
+  "太原市": {
+    "province": "山西省",
+    "spots": [
+      {
+        "name": "太原滨河自行车道",
+        "desc": "沿汾河东西两岸布局，北起城区段出山口、南至迎宾桥南2公里，全长88公里。",
+        "distance": "88公里",
+        "difficulty": "",
+        "source": "https://finance.sina.com.cn/wm/2026-04-27/doc-inhvxatm2445681.shtml"
+      },
+      {
+        "name": "太原西山骑行路线",
+        "desc": "从晋祠出发沿西山旅游公路，串联天龙山、蒙山大佛、桃花沟、玉泉山、崛围山至汾河二库。",
+        "distance": "",
+        "difficulty": "",
+        "source": "https://wlj.taiyuan.gov.cn/wlzx1/20251031/30265185.html"
+      },
+      {
+        "name": "太原环西山—汾河“骑行+”核心路线",
+        "desc": "以西山片区、晋阳湖和汾河景观带为核心，核心骑行路线全长约230公里，串联天龙山、晋祠。",
+        "distance": "约230公里",
+        "difficulty": "",
+        "source": "https://taiyuan.gov.cn/zwyw/20251106/30265922.html"
+      }
+    ]
+  },
+  "东莞市": {
+    "province": "广东省",
+    "spots": [
+      {
+        "name": "松山湖绿道 / 北湖碧道",
+        "desc": "松山湖绿道总长约122公里，串联松湖烟雨、松湖花海、月荷湖公园等；北湖环湖碧道可看湖光，并经过科学公园和华为溪流背坡村一带。",
+        "distance": "松山湖绿道总长约122公里",
+        "difficulty": "",
+        "source": "https://global.hk01.com/%E5%8C%97%E4%B8%8A%E5%B9%BF%E4%B8%9C/60303064/%E5%A4%A7%E6%B9%BE%E5%8C%BA4%E5%A4%A7%E6%88%B7%E5%A4%96%E9%AA%91%E5%8D%95%E8%BD%A6%E8%B7%AF%E7%BA%BF-%E7%8F%A0%E6%B5%B7%E6%83%85%E4%BE%A3%E8%B7%AF-%E4%B8%9C%E8%8E%9E%E6%9D%BE%E5%B1%B1%E6%B9%96-%E9%99%84%E4%BA%A4%E9%80%9A%E8%B5%84%E8%AE%AF"
+      },
+      {
+        "name": "滨海湾新区骑行线",
+        "desc": "在滨海湾新区兜圈骑行，沿海路段可看海，栈道设有专门的骑行道和散步道。",
+        "distance": "全程约10公里，其中沿海路段约3公里",
+        "difficulty": "",
+        "source": "https://static.nfapp.southcn.com/content/202403/07/c8667294.html"
+      }
+    ]
+  },
+  "中山市": {
+    "province": "广东省",
+    "spots": [
+      {
+        "name": "民众水乡绿道",
+        "desc": "起于洪奇沥大桥，贯穿民众8个村庄，途经沙田明珠、名彩水果园、裕安人家等，接横门水道堤围，是中山最长的原生态水乡绿道。",
+        "distance": "全长27.5公里",
+        "difficulty": "",
+        "source": "http://zs.bendibao.com/tour/2023413/26830.shtm"
+      },
+      {
+        "name": "环金钟水库绿道",
+        "desc": "环金钟水库骑行，沿途有芦苇、湖水和山林，地形和线路相对复杂，坡陡且多。",
+        "distance": "全长11.6公里",
+        "difficulty": "坡陡且多，对经验和应变要求较高",
+        "source": "http://zs.bendibao.com/tour/2023413/26830.shtm"
+      },
+      {
+        "name": "南朗翠亨段绿道",
+        "desc": "从中山革命烈士陵园到南朗红树林崖口湿地公园，途经孙中山故居纪念馆、中山影视城和红树林海岸。",
+        "distance": "全程约5.9公里",
+        "difficulty": "",
+        "source": "http://zs.bendibao.com/tour/2023413/26830.shtm"
+      }
+    ]
+  },
+  "广州市": {
+    "province": "广东省",
+    "spots": [
+      {
+        "name": "广州新中轴—太古仓",
+        "desc": "广州市人民政府推荐路线：珠江新城—二沙岛—海印桥—滨江路—太古仓，沿珠江骑行看城市新中轴与滨江风景。",
+        "distance": "约13公里",
+        "difficulty": "",
+        "source": "https://www.gz.gov.cn/zt/ddgzjpwhlyxlx/wllx/content/post_8749487.html"
+      },
+      {
+        "name": "生物岛环岛绿道",
+        "desc": "从官洲地铁站经生物岛公园、水墨园到小洲村，环岛绿道风景清幽，适合休闲骑行。",
+        "distance": "约8公里",
+        "difficulty": "",
+        "source": "https://www.gz.gov.cn/zt/ddgzjpwhlyxlx/wllx/content/post_8749487.html"
+      },
+      {
+        "name": "大学城绿道",
+        "desc": "大学城覆盖环湖路、内环路、外环路等绿道，外环可看珠江和各高校，内环曾有自行车越野赛道。推荐从大学城北站沿外环骑行。",
+        "distance": "外环约15公里，绿道合计约32公里",
+        "difficulty": "",
+        "source": "https://www.gz.gov.cn/zt/ddgzjpwhlyxlx/wllx/content/post_8749487.html"
+      },
+      {
+        "name": "增江画廊",
+        "desc": "起点初溪水利枢纽、终点湖心岛景区，沿增江两岸骑行，串联鹤之洲湿地公园、何仙姑家庙等景点。",
+        "distance": "全长约40公里",
+        "difficulty": "",
+        "source": "https://www.gz.gov.cn/zt/ddgzjpwhlyxlx/wllx/content/post_8749487.html"
+      },
+      {
+        "name": "黄埔古港—海心沙",
+        "desc": "黄埔古港—万胜围—珠江琶醍—琶洲大桥—海心沙，兼顾海丝历史遗迹与珠江两岸风光。",
+        "distance": "约10公里",
+        "difficulty": "",
+        "source": "https://www.gz.gov.cn/zt/ddgzjpwhlyxlx/wllx/content/post_8749487.html"
+      }
+    ]
+  },
+  "惠州市": {
+    "province": "广东省",
+    "spots": [
+      {
+        "name": "红花湖绿道",
+        "desc": "惠城知名骑行绿道，环湖穿行于层峦叠翠的群山之中，是惠州市打造的首条示范生态绿道。",
+        "distance": "环湖绿道总长18公里",
+        "difficulty": "",
+        "source": "https://static.nfapp.southcn.com/content/202403/07/c8667294.html"
+      },
+      {
+        "name": "玄碧湖环湖绿道",
+        "desc": "位于博罗县、邻近罗浮山，环大洞水库而建，坡度平缓，可看湖光与罗浮山。",
+        "distance": "绿道全长8.19公里，其中环湖约6公里",
+        "difficulty": "坡度平缓，适合亲子及初学者",
+        "source": "https://global.hk01.com/%E5%8C%97%E4%B8%8A%E5%B9%BF%E4%B8%9C/60303064/%E5%A4%A7%E6%B9%BE%E5%8C%BA4%E5%A4%A7%E6%88%B7%E5%A4%96%E9%AA%91%E5%8D%95%E8%BD%A6%E8%B7%AF%E7%BA%BF-%E7%8F%A0%E6%B5%B7%E6%83%85%E4%BE%A3%E8%B7%AF-%E4%B8%9C%E8%8E%9E%E6%9D%BE%E5%B1%B1%E6%B9%96-%E9%99%84%E4%BA%A4%E9%80%9A%E8%B5%84%E8%AE%AF"
+      }
+    ]
+  },
+  "深圳市": {
+    "province": "广东省",
+    "spots": [
+      {
+        "name": "盐田海滨栈道",
+        "desc": "从沙头角骑行到大小梅沙、背仔角，步道、骑行道和公路分开，依山傍海，是深圳黄金海岸线。",
+        "distance": "",
+        "difficulty": "",
+        "source": "https://static.nfapp.southcn.com/content/202403/07/c8667294.html"
+      },
+      {
+        "name": "梅林绿道",
+        "desc": "沿途有涂鸦墙和驿站，绿树环绕，可在梅林水库大坝休息，路况较好，适合初学者。",
+        "distance": "全长约12公里",
+        "difficulty": "适合初学者",
+        "source": "https://static.nfapp.southcn.com/content/202403/07/c8667294.html"
+      },
+      {
+        "name": "乌山头绿道",
+        "desc": "起于黄金海岸、终于小径湾，依海岸线盘山而行，一边是海、一边是山林。",
+        "distance": "约5.8公里",
+        "difficulty": "",
+        "source": "https://static.nfapp.southcn.com/content/202403/07/c8667294.html"
+      }
+    ]
+  },
+  "珠海市": {
+    "province": "广东省",
+    "spots": [
+      {
+        "name": "情侣路碧道",
+        "desc": "位于香洲区及高新区沿海，紧贴南海岸线，串联珠海渔女、大剧院、城市阳台、白沙滩、香炉湾和海滨泳场等，全线人车分离。",
+        "distance": "已建成碧道约34.1公里（情侣路总长55公里）",
+        "difficulty": "",
+        "source": "https://global.hk01.com/%E5%8C%97%E4%B8%8A%E5%B9%BF%E4%B8%9C/60303064/%E5%A4%A7%E6%B9%BE%E5%8C%BA4%E5%A4%A7%E6%88%B7%E5%A4%96%E9%AA%91%E5%8D%95%E8%BD%A6%E8%B7%AF%E7%BA%BF-%E7%8F%A0%E6%B5%B7%E6%83%85%E4%BE%A3%E8%B7%AF-%E4%B8%9C%E8%8E%9E%E6%9D%BE%E5%B1%B1%E6%B9%96-%E9%99%84%E4%BA%A4%E9%80%9A%E8%B5%84%E8%AE%AF"
+      },
+      {
+        "name": "横琴花海长廊绿道",
+        "desc": "位于横琴琴海北路，绿道与海景、花海相连，是珠海常见的滨海休闲骑行路段。",
+        "distance": "",
+        "difficulty": "",
+        "source": "https://static.nfapp.southcn.com/content/202403/07/c8667294.html"
+      }
+    ]
+  },
+  "阳江市": {
+    "province": "广东省",
+    "spots": [
+      {
+        "name": "海陵岛滨海骑行赛道",
+        "desc": "阳江官方自行车赛在海陵岛举行，赛道串联宋康大道、南海一号大道、十里银滩、海陵大堤、旅游大道、螺洲公园等节点。",
+        "distance": "",
+        "difficulty": "",
+        "source": "https://www.yangjiang.gov.cn/yj/ywdt/yjyw/content/post_988725.html"
+      }
+    ]
+  },
+  "北海市": {
+    "province": "广西壮族自治区",
+    "spots": [
+      {
+        "name": "滨海风情线",
+        "desc": "自高德大桥沿海景大道向西，经半岛广场、百年老街、地角渔港、冠头岭、侨港、国际码头到银滩、金海湾的环岛向线路。",
+        "distance": "",
+        "difficulty": "",
+        "source": "http://www.58bh.com/archives/view-1540-1.html"
+      }
+    ]
+  },
+  "南宁市": {
+    "province": "广西壮族自治区",
+    "spots": [
+      {
+        "name": "青环路—邕江精华段",
+        "desc": "覆盖环广西世巡赛南宁城市赛段核心赛道，入选2024年“中国骑行地图”精品路线。途经广西文化艺术中心、青秀山和邕江沿岸。",
+        "distance": "",
+        "difficulty": "",
+        "source": "http://www.gx.xinhuanet.com/20251018/913500deda554ba596d7852ff3f1fdf5/c.html"
+      },
+      {
+        "name": "邕江滨水线",
+        "desc": "民生码头—邕江滨水公园—柳沙公园—三岸大桥，沿整治后的邕江水岸骑行，途经多个观景平台。",
+        "distance": "",
+        "difficulty": "",
+        "source": "http://www.gx.xinhuanet.com/20251018/913500deda554ba596d7852ff3f1fdf5/c.html"
+      },
+      {
+        "name": "南湖—民歌湖环线",
+        "desc": "南湖公园—名树博览园—民歌湖—会展中心，是南宁城市核心区的经典夜景骑行路线。",
+        "distance": "",
+        "difficulty": "",
+        "source": "http://www.gx.xinhuanet.com/20251018/913500deda554ba596d7852ff3f1fdf5/c.html"
+      },
+      {
+        "name": "青秀山环线",
+        "desc": "沿青秀山内部道路骑行，坡度适中，绿荫覆盖率高，可俯瞰南宁天际线，适合有一定基础的骑友。",
+        "distance": "",
+        "difficulty": "坡度适中，适合有一定基础的骑友",
+        "source": "http://www.gx.xinhuanet.com/20251018/913500deda554ba596d7852ff3f1fdf5/c.html"
+      }
+    ]
+  },
+  "桂林市": {
+    "province": "广西壮族自治区",
+    "spots": [
+      {
+        "name": "环漓江骑行线路",
+        "desc": "连续入选中国自行车运动协会“中国百条精品骑行线路”，沿漓江穿行于喀斯特山水、传统村落和稻田之间，难度适中。",
+        "distance": "",
+        "difficulty": "难度适中",
+        "source": "http://tyj.gxzf.gov.cn/xwzx/sxdt/t27097087.shtml"
+      }
+    ]
+  },
+  "乌鲁木齐市": {
+    "province": "新疆维吾尔自治区",
+    "spots": [
+      {
+        "name": "水磨沟区慢行系统（红山—水磨沟）",
+        "desc": "水磨沟区慢行系统串联红山公园、南湖市民广场、水塔山和水磨沟公园等地，形成生活环与休闲环。",
+        "distance": "整体约30公里",
+        "difficulty": "",
+        "source": "http://www.lingnan.cn/news/dynamic/Copy_105/136.html"
+      },
+      {
+        "name": "水磨河滨水绿色慢行系统",
+        "desc": "沿水磨河建设的滨水慢行系统，南起北山大桥，北至喀什东路以北。",
+        "distance": "13公里",
+        "difficulty": "",
+        "source": "https://www.ts.cn/xwzx/shxw/202408/t20240807_23030771.shtml"
+      }
+    ]
+  },
+  "南京市": {
+    "province": "江苏省",
+    "spots": [
+      {
+        "name": "环明城墙线",
+        "desc": "明城墙东水关—武定门—雨花门—中华门—长干门—西干长巷，沿明城墙骑行，可远看紫金山、近赏玄武湖。",
+        "distance": "",
+        "difficulty": "",
+        "source": "https://www.ourjiangsu.com/a/20170328/1490703207448.shtml"
+      },
+      {
+        "name": "南京老山绿道",
+        "desc": "江苏省住房和城乡建设厅介绍的骑行向绿道，是江苏城市绿道打卡线路之一。",
+        "distance": "",
+        "difficulty": "",
+        "source": "https://jsnews.jschina.com.cn/jsyw/202510/t20251004_s68e0f70de4b091d4e23405b9.shtml"
+      },
+      {
+        "name": "河西滨江绿道",
+        "desc": "串联鱼嘴湿地公园、滨江绿道、南京眼步行桥和绿博园，也是江苏省半程马拉松官方赛道所在。",
+        "distance": "",
+        "difficulty": "",
+        "source": "https://jsnews.jschina.com.cn/jsyw/202510/t20251004_s68e0f70de4b091d4e23405b9.shtml"
+      }
+    ]
+  },
+  "南通市": {
+    "province": "江苏省",
+    "spots": [
+      {
+        "name": "通吕运河生态绿廊",
+        "desc": "沿通吕运河建设的生态绿廊，设有慢行环道和自行车道，可骑行观看运河风光。",
+        "distance": "",
+        "difficulty": "",
+        "source": "https://jsnews.jschina.com.cn/jsyw/202510/t20251004_s68e0f70de4b091d4e23405b9.shtml"
+      },
+      {
+        "name": "南通滨江绿道",
+        "desc": "沿江骑行空间，可看江景并使用体育公园等配套，是江苏城市绿道推荐线路之一。",
+        "distance": "",
+        "difficulty": "",
+        "source": "https://jsnews.jschina.com.cn/jsyw/202510/t20251004_s68e0f70de4b091d4e23405b9.shtml"
+      }
+    ]
+  },
+  "宿迁市": {
+    "province": "江苏省",
+    "spots": [
+      {
+        "name": "骆马湖绿道",
+        "desc": "江苏省住建厅推荐的骑行向城市绿道，是宿迁骆马湖沿线的休闲骑行去处。",
+        "distance": "",
+        "difficulty": "",
+        "source": "https://jsnews.jschina.com.cn/jsyw/202510/t20251004_s68e0f70de4b091d4e23405b9.shtml"
+      }
+    ]
+  },
+  "常州市": {
+    "province": "江苏省",
+    "spots": [
+      {
+        "name": "青果巷—红梅公园线",
+        "desc": "从青果巷经麻巷、红梅路到红梅公园，再经小东门路、竹林路到紫荆公园，是常州常见的古城人文骑行线。",
+        "distance": "",
+        "difficulty": "",
+        "source": "https://www.ourjiangsu.com/a/20170328/1490703207448.shtml"
+      },
+      {
+        "name": "南运河荆溪漫道",
+        "desc": "沿南运河而建的绿道，设有环形步道、绿地长廊和健身设施，可骑行或漫步。",
+        "distance": "",
+        "difficulty": "",
+        "source": "https://jsnews.jschina.com.cn/jsyw/202510/t20251004_s68e0f70de4b091d4e23405b9.shtml"
+      }
+    ]
+  },
+  "徐州市": {
+    "province": "江苏省",
+    "spots": [
+      {
+        "name": "环云龙湖线",
+        "desc": "沿三环南路、泰山路、金山东路、湖东路环云龙湖骑行，依山顺堤，是徐州骑友常骑的环湖线路。",
+        "distance": "长约14公里",
+        "difficulty": "",
+        "source": "https://www.ourjiangsu.com/a/20170328/1490703207448.shtml"
+      }
+    ]
+  },
+  "扬州市": {
+    "province": "江苏省",
+    "spots": [
+      {
+        "name": "环扬州古城体旅骑行线路",
+        "desc": "从东关古渡出发，途经瘦西湖、唐子城绿道、汉广陵王墓等，基本覆盖扬州古城主要遗迹，大部分路段较平坦，北边环形路段有坡度。",
+        "distance": "全长约20公里",
+        "difficulty": "大部分较平坦，北边环形路段有坡度",
+        "source": "http://yz.bendibao.com/tour/202533/28559.shtm"
+      },
+      {
+        "name": "环邵伯湖骑行线路",
+        "desc": "从大王庙经S611沿湖大道、珠湖小圳、高邮湖特大桥、S237、车逻镇、邵伯斗野园、邵仙闸返回，大部分为省道。",
+        "distance": "全长约103公里",
+        "difficulty": "",
+        "source": "http://yz.bendibao.com/tour/202533/28559.shtm"
+      },
+      {
+        "name": "运河西堤骑行线路",
+        "desc": "从邵伯生态公园经邵伯船闸、运河西堤到高邮，西侧是邵伯湖、高邮湖，东侧是京杭大运河。",
+        "distance": "全长约35公里",
+        "difficulty": "",
+        "source": "http://yz.bendibao.com/tour/202533/28559.shtm"
+      },
+      {
+        "name": "江都东进路骑行线路",
+        "desc": "从新都大桥附近沿新通扬运河北岸向东，经233国道、京沪高速、264省道到郭村镇庄桥村。",
+        "distance": "全长约21公里",
+        "difficulty": "",
+        "source": "http://yz.bendibao.com/tour/202533/28559.shtm"
+      }
+    ]
+  },
+  "无锡市": {
+    "province": "江苏省",
+    "spots": [
+      {
+        "name": "环蠡湖大圈",
+        "desc": "途经蠡湖之光、金城湾湿地公园、鼋头渚入口、宝界公园、长广溪国家湿地公园等，贴近湖岸、山水视野开阔。",
+        "distance": "约22公里",
+        "difficulty": "",
+        "source": "http://wx.bendibao.com/tour/202549/82519.shtm"
+      },
+      {
+        "name": "最美马山半岛骑行线",
+        "desc": "从蠡湖到马山，途经十里明珠堤、灵山大佛等地，弯道和缓坡较多，是太湖沿线热门骑行线路。",
+        "distance": "往返约50公里",
+        "difficulty": "",
+        "source": "http://wx.bendibao.com/tour/202549/82519.shtm"
+      },
+      {
+        "name": "十里明珠堤绿道",
+        "desc": "江苏省住建厅推荐的骑行向绿道，湖山相依，可结合环湖骑行与沿途驿站。",
+        "distance": "",
+        "difficulty": "",
+        "source": "https://jsnews.jschina.com.cn/jsyw/202510/t20251004_s68e0f70de4b091d4e23405b9.shtml"
+      }
+    ]
+  },
+  "淮安市": {
+    "province": "江苏省",
+    "spots": [
+      {
+        "name": "洪泽湖古堰线",
+        "desc": "市区—武墩—和平—洪泽—蒋坝，沿洪泽湖大堤骑行，可看古堰、减水坝遗址和湖岸风光。",
+        "distance": "",
+        "difficulty": "",
+        "source": "https://www.ourjiangsu.com/a/20170328/1490703207448.shtml"
+      }
+    ]
+  },
+  "苏州市": {
+    "province": "江苏省",
+    "spots": [
+      {
+        "name": "环阳澄湖半岛自行车步道",
+        "desc": "苏州较早的环湖自行车步道，可环半岛骑行，沿途有阳澄湖、重元寺等景观。",
+        "distance": "约50公里",
+        "difficulty": "",
+        "source": "https://www.ourjiangsu.com/a/20170328/1490703207448.shtml"
+      },
+      {
+        "name": "环太湖绿道",
+        "desc": "江苏省住建厅推荐的骑行线路，可结合万公堤、阅湖台、南公堤、苏州湾大剧院和环太湖自行车运动公园。",
+        "distance": "",
+        "difficulty": "",
+        "source": "https://jsnews.jschina.com.cn/jsyw/202510/t20251004_s68e0f70de4b091d4e23405b9.shtml"
+      }
+    ]
+  },
+  "连云港市": {
+    "province": "江苏省",
+    "spots": [
+      {
+        "name": "海上云台山线",
+        "desc": "从海上云台山风景区山门骑向二栀尖，在山海之间骑行，沿途有法起寺等景点。",
+        "distance": "",
+        "difficulty": "",
+        "source": "https://www.ourjiangsu.com/a/20170328/1490703207448.shtml"
+      }
+    ]
+  },
+  "镇江市": {
+    "province": "江苏省",
+    "spots": [
+      {
+        "name": "西津渡老城线",
+        "desc": "京畿路—伯先路—西津渡，穿行镇江历史文化街区和石板路老街。",
+        "distance": "",
+        "difficulty": "",
+        "source": "https://www.ourjiangsu.com/a/20170328/1490703207448.shtml"
+      },
+      {
+        "name": "古运河风光带绿廊",
+        "desc": "城河联动的运河绿廊，途经袁公义渡、河滨公园等，可骑行或漫步。",
+        "distance": "",
+        "difficulty": "",
+        "source": "https://jsnews.jschina.com.cn/jsyw/202510/t20251004_s68e0f70de4b091d4e23405b9.shtml"
+      },
+      {
+        "name": "南山绿道",
+        "desc": "镇江南山一带的城市绿道，被列入江苏绿道健身与骑行推荐地点。",
+        "distance": "",
+        "difficulty": "",
+        "source": "https://jsnews.jschina.com.cn/jsyw/202510/t20251004_s68e0f70de4b091d4e23405b9.shtml"
+      }
+    ]
+  },
+  "九江市": {
+    "province": "江西省",
+    "spots": [
+      {
+        "name": "“两湖”环线",
+        "desc": "路线为庐山南路—浔阳路—环城路—李公堤—南湖公园，沿李公堤可看南湖与甘棠湖烟水亭。",
+        "distance": "约10公里",
+        "difficulty": "轻松（⭐）",
+        "source": "https://my.trip.com/moments/detail/lushan-city-2390-144713010?locale=zh-MY"
+      },
+      {
+        "name": "滨江路",
+        "desc": "沿长江岸线骑行，左手长江、右手浔阳楼、锁江楼、琵琶亭等古迹。",
+        "distance": "约8公里",
+        "difficulty": "轻松（⭐）",
+        "source": "https://my.trip.com/moments/detail/lushan-city-2390-144713010?locale=zh-MY"
+      },
+      {
+        "name": "赛城湖绿道",
+        "desc": "九江环湖绿道，全长50公里，含主线32公里、支线18公里及2.5公里樱花道，沿线设景观节点和服务驿站。",
+        "distance": "10—50公里",
+        "difficulty": "较轻松（⭐⭐）",
+        "source": "https://my.trip.com/moments/detail/lushan-city-2390-144713010?locale=zh-MY"
+      },
+      {
+        "name": "芳兰湖湿地公园",
+        "desc": "绿道平坦宽阔、几乎无坡度，有两处观鸟点，骑行时可见水鸟掠过水面。",
+        "distance": "约12公里",
+        "difficulty": "较轻松（⭐⭐）",
+        "source": "https://my.trip.com/moments/detail/lushan-city-2390-144713010?locale=zh-MY"
+      },
+      {
+        "name": "庐山环线",
+        "desc": "从庐山北门换乘中心出发，经环庐山公路、庐山东西门、秀峰景区、温泉镇返回，途经碧龙潭、白鹿洞书院、观音桥、东林大佛。",
+        "distance": "约60公里",
+        "difficulty": "中等（⭐⭐⭐）",
+        "source": "https://my.trip.com/moments/detail/lushan-city-2390-144713010?locale=zh-MY"
+      }
+    ]
+  },
+  "南昌市": {
+    "province": "江西省",
+    "spots": [
+      {
+        "name": "艾溪湖绿道",
+        "desc": "被称为“入门级绿道”，骑行者可穿行于湖光城景之间，是南昌高新区骑行绿道网络的组成部分。",
+        "distance": "",
+        "difficulty": "",
+        "source": "https://www.ncnews.com.cn/xwzx/ncxw/shzx/202607/t20260708_2227379.html"
+      },
+      {
+        "name": "环瑶湖骑行绿道",
+        "desc": "环瑶湖新施划的完整“循环”骑行绿道，沿线设有碰面点，骑至赣鄱三路可无缝衔接鲤鱼洲公路骑行绿道。",
+        "distance": "",
+        "difficulty": "",
+        "source": "https://www.ncnews.com.cn/xwzx/ncxw/shzx/202607/t20260708_2227379.html"
+      },
+      {
+        "name": "南塘湖—艾溪湖—瑶湖绿道",
+        "desc": "从南塘湖公园出发，沿艾溪湖北路、瑶湖西三路延伸至瑶湖西大道，与环瑶湖绿道贯通，形成一条长距离连续骑行路线。",
+        "distance": "27公里",
+        "difficulty": "",
+        "source": "https://www.ncnews.com.cn/xwzx/ncxw/shzx/202607/t20260708_2227379.html"
+      },
+      {
+        "name": "鲤鱼洲公路骑行绿道",
+        "desc": "与环瑶湖绿道在赣鄱三路衔接的公路骑行绿道，可继续向鲤鱼洲方向延伸。",
+        "distance": "",
+        "difficulty": "",
+        "source": "https://www.ncnews.com.cn/xwzx/ncxw/shzx/202607/t20260708_2227379.html"
+      }
+    ]
+  },
+  "张家口市": {
+    "province": "河北省",
+    "spots": [
+      {
+        "name": "草原天路",
+        "desc": "位于张北县与崇礼区交界，西起野狐岭、东至桦皮岭，全长132.7公里，被称为中国版“66号公路”。",
+        "distance": "132.7公里",
+        "difficulty": "",
+        "source": "https://www.8264.com/youji/5512578.html"
+      },
+      {
+        "name": "富龙山地车公园",
+        "desc": "崇礼富龙滑雪场夏季运营的山地车公园，12条速降车道、总里程27公里，涵盖零基础到专业级。",
+        "distance": "27公里",
+        "difficulty": "零基础至专业级",
+        "source": "https://heb.hebccw.cn/system/2026/08/06/102210844.shtml"
+      },
+      {
+        "name": "太舞小镇山地车公园",
+        "desc": "崇礼太舞小镇将冬季滑雪道转为夏季山地车骑行场地，山地车公园于6月1日正式开园。",
+        "distance": "",
+        "difficulty": "",
+        "source": "https://www.hebtv.com/0/0rmhlm/sydw/zw/hbfc/12348297.shtml"
+      },
+      {
+        "name": "崇礼城区—太子城公路",
+        "desc": "崇礼城区通往太子城的公路，夏季吸引大量骑友骑行观景，沿线可串联富龙、云顶等雪场。",
+        "distance": "",
+        "difficulty": "",
+        "source": "https://www.hebtv.com/0/0rmhlm/sydw/zw/hbfc/12348297.shtml"
+      }
+    ]
+  },
+  "承德市": {
+    "province": "河北省",
+    "spots": [
+      {
+        "name": "国家一号风景大道",
+        "desc": "东起围场塞罕坝坝头、西至丰宁牛圈子坝头，全长240公里，沿线配套慢行骑行系统。",
+        "distance": "240公里",
+        "difficulty": "",
+        "source": "https://www.chengde.gov.cn/art/2018/10/10/art_9949_209892.html"
+      },
+      {
+        "name": "坝上草原慢行系统",
+        "desc": "一号风景大道沿线新建的骑行慢行系统，一期26.563公里彩色路面，分林海、山地、草原三段。",
+        "distance": "26.563公里",
+        "difficulty": "",
+        "source": "https://lywh.chengde.gov.cn/art/2018/8/3/art_194_2838.html"
+      },
+      {
+        "name": "武烈河畔—避暑山庄环城绿道",
+        "desc": "从武烈河畔绿道沿河岸向南，接入避暑山庄外围环城绿道，全程约15公里，路面平坦。",
+        "distance": "约15公里",
+        "difficulty": "",
+        "source": "https://www.inxiang.cn/Article-List/A12850.html"
+      }
+    ]
+  },
+  "石家庄市": {
+    "province": "河北省",
+    "spots": [
+      {
+        "name": "石家庄环城绿道",
+        "desc": "沿滹沱河与环城水系形成101公里闭环，串联76座公园，设4米骑行道与2米步行道。",
+        "distance": "101公里",
+        "difficulty": "",
+        "source": "https://tyj.sjz.gov.cn/columns/026896f3-7f6b-4975-859a-edb9173ef528/202608/17/43a1223a-9d4c-46e9-bad1-e6ced4f4a93d.html"
+      },
+      {
+        "name": "环城绿道骑游大会30公里路线",
+        "desc": "从叶子广场顺时针经冀之光塔广场、天山公园至泊水公园，全程30公里。",
+        "distance": "30公里",
+        "difficulty": "",
+        "source": "https://tyj.sjz.gov.cn/columns/a000c6c0-85e4-4ea1-87b3-10e0173a1b0c/202609/04/aa0ecd93-0d03-4303-beff-bf944678734b.html"
+      },
+      {
+        "name": "山前大道骑行绿道",
+        "desc": "鹿泉区南北向景观大道，全长约50公里，两侧配套骑行与慢行绿道，串联抱犊寨等景区。",
+        "distance": "约50公里",
+        "difficulty": "",
+        "source": "https://sjz.hebccw.cn/system/2026/09/07/102220103.shtml"
+      },
+      {
+        "name": "鹿泉公路自行车赛赛道",
+        "desc": "全长43.5公里、累计爬升430米，途经抱犊寨、白鹿泉、谷家峪、土门关驿道小镇。",
+        "distance": "43.5公里",
+        "difficulty": "",
+        "source": "https://tyj.sjz.gov.cn/columns/bbe540e6-3a78-4ae9-931d-568ffc6d80ad/202605/28/45568496-5531-403f-b8fb-44e3c004744d.html"
+      }
+    ]
+  },
+  "秦皇岛市": {
+    "province": "河北省",
+    "spots": [
+      {
+        "name": "北戴河新区滨海骑行休闲体育旅游线路",
+        "desc": "串联阿那亚、蔚蓝海岸与黄金海岸的滨海骑行线路，入选河北省体育旅游精品线路。",
+        "distance": "",
+        "difficulty": "",
+        "source": "https://www.qhd.gov.cn/front_pcthi.do?COLLCC=1631328878&uuid=95F362689C396E5A3EC2E39632743EB8"
+      },
+      {
+        "name": "北戴河区纵线健身休闲绿道",
+        "desc": "依海而建，长约14公里，可骑行、轮滑、健走，是游览北戴河海滨风光的路线。",
+        "distance": "约14公里",
+        "difficulty": "",
+        "source": "https://www.qhd.gov.cn/index/news/details.html?COLLCC=1071991402&id=77663"
+      },
+      {
+        "name": "海港区绿色海岸自行车道",
+        "desc": "位于海港区海岸线旁，长3200米、宽4米，呈波浪形延伸，供骑行与观海健身。",
+        "distance": "约3.2公里",
+        "difficulty": "",
+        "source": "https://merit-times.com.tw/NewsPage.aspx?unid=397458"
+      }
+    ]
+  },
+  "开封市": {
+    "province": "河南省",
+    "spots": [
+      {
+        "name": "沿黄生态廊道（开封段）",
+        "desc": "沿黄河大堤建设的生态廊道，设自行车专用道和健身步道，两侧绿化随四季变化，是开封骑友常去的滨河线路。",
+        "distance": "",
+        "difficulty": "",
+        "source": "https://www.kf.cn/c/2024-09-09/901580.shtml"
+      },
+      {
+        "name": "西干渠沿黄生态廊道",
+        "desc": "城乡一体化示范区西干渠黄河生态廊道，被当地骑友称为“开封最美骑行线路”。",
+        "distance": "",
+        "difficulty": "",
+        "source": "https://epaper.kf.cn/paper/kfrb/2023-09-01/details.html?edition=5&details=5"
+      },
+      {
+        "name": "汴西湖绿道",
+        "desc": "环汴西湖绿道，北线约9公里，湖边设专门的骑行、跑步通道，环湖一圈约18公里，可从东京大道辅路与环堤路交叉口进入。",
+        "distance": "约18公里",
+        "difficulty": "",
+        "source": "https://www.xiaohongshu.com/discovery/item/668802df000000001f004784"
+      },
+      {
+        "name": "环开封城墙骑行线",
+        "desc": "沿内顺城路绕开封城墙骑行，途经金耀门、大梁门、迎宾门、宋门、曹门、安远门等城门，全程约15公里。",
+        "distance": "约15公里",
+        "difficulty": "",
+        "source": "https://www.xiaohongshu.com/discovery/item/6730882d000000001b010919"
+      },
+      {
+        "name": "涧水河绿道",
+        "desc": "涧水河沿岸的滨水绿道，与开封城市绿道网络相连，沿岸植被茂密，适合市民休闲骑行。",
+        "distance": "",
+        "difficulty": "",
+        "source": "https://www.kf.cn/c/2024-09-09/901580.shtml"
+      }
+    ]
+  },
+  "洛阳市": {
+    "province": "河南省",
+    "spots": [
+      {
+        "name": "伊水乐道（伊河右岸堤顶路）",
+        "desc": "位于伊滨区伊河右岸堤顶路，全长17.7公里，红绿色乐道与伊水游园、湿地相映，是洛阳亲水骑行的热门线路。",
+        "distance": "17.7公里",
+        "difficulty": "",
+        "source": "https://www.hnlykfq.gov.cn/zhongdajianshexiangmu/13519.html"
+      },
+      {
+        "name": "伊河两岸乐道",
+        "desc": "沿伊河两岸布设的滨水乐道，全长24.8公里，属于洛阳“四河三渠”乐道网络。",
+        "distance": "24.8公里",
+        "difficulty": "",
+        "source": "https://www.henan.gov.cn/2020/08-05/1751035.html"
+      },
+      {
+        "name": "洛浦公园滨河乐道",
+        "desc": "沿洛河洛浦公园布设的滨河乐道，洛阳桥至凌波大桥段约21公里，是洛阳半程马拉松和日常骑行的线路。",
+        "distance": "约21公里",
+        "difficulty": "",
+        "source": "http://lyrb.lyd.com.cn/html2/2020-12/07/content_253497.htm"
+      },
+      {
+        "name": "伊滨旅游环线",
+        "desc": "以万安山为依托的23.8公里旅游环线，串联倒盏村、万安山山顶公园、七彩大峡谷、野生动物园等，柏油路面平整。",
+        "distance": "23.8公里",
+        "difficulty": "",
+        "source": "https://www.ly.gov.cn/public-jc/2025/05-28/14195.html"
+      },
+      {
+        "name": "周山森林公园乐道",
+        "desc": "沿周山森林公园布设的乐道，全长11.4公里，适合在森林环境中骑行健身。",
+        "distance": "11.4公里",
+        "difficulty": "",
+        "source": "https://www.henan.gov.cn/2020/08-05/1751035.html"
+      }
+    ]
+  },
+  "郑州市": {
+    "province": "河南省",
+    "spots": [
+      {
+        "name": "贾鲁河绿道",
+        "desc": "沿贾鲁河两岸的滨河绿道，104公里滨河游路串联两岸，沿线布设自行车慢行系统、马拉松赛道、龙舟赛道和便民驿站。",
+        "distance": "104公里",
+        "difficulty": "",
+        "source": "https://zhengguannews.cn/news/508831.html"
+      },
+      {
+        "name": "郑州沿黄生态廊道",
+        "desc": "西起惠济区江山路、东至中牟与开封交界，建成骑行道76.5公里、步行道36公里，配套驿站23座。",
+        "distance": "76.5公里",
+        "difficulty": "",
+        "source": "https://lyj.henan.gov.cn/2024/09-14/3063176.html"
+      },
+      {
+        "name": "北龙湖环湖线",
+        "desc": "环北龙湖外环约19公里，一半湿地自然野趣、一半现代都市湖景，可看天鹅芦苇、登凤山俯瞰全湖。",
+        "distance": "约19公里",
+        "difficulty": "",
+        "source": "https://m.163.com/dy/article/LADN4L680550B6IS.html"
+      },
+      {
+        "name": "龙子湖环湖线",
+        "desc": "龙子湖内环5公里、外环7公里，路面平缓、湖畔林荫，大学城氛围浓，适合休闲骑行和边骑边拍。",
+        "distance": "内环5公里、外环7公里",
+        "difficulty": "",
+        "source": "https://m.163.com/dy/article/LADN4L680550B6IS.html"
+      },
+      {
+        "name": "金融岛环线",
+        "desc": "环北龙湖金融岛一圈约3公里，现代湖景与夜景，是郑州城市夜骑路线。",
+        "distance": "约3公里",
+        "difficulty": "",
+        "source": "https://m.163.com/dy/article/LADN4L680550B6IS.html"
+      }
+    ]
+  },
+  "台州市": {
+    "province": "浙江省",
+    "spots": [
+      {
+        "name": "黄岩·永宁江绿道",
+        "desc": "台州本地宝“绿道”类骑行路线之一，沿永宁江布设。",
+        "distance": "",
+        "difficulty": "",
+        "source": "https://m.tz.bendibao.com/news/23794.shtm"
+      },
+      {
+        "name": "仙居·永安溪绿道",
+        "desc": "台州本地宝“绿道”类骑行路线之一，沿永安溪布设。",
+        "distance": "",
+        "difficulty": "",
+        "source": "https://m.tz.bendibao.com/news/23794.shtm"
+      },
+      {
+        "name": "天台·始丰溪绿道",
+        "desc": "台州本地宝“绿道”类骑行路线之一，沿始丰溪布设；也可从始丰湖公园沿绿道骑至安科村、平桥湿地。",
+        "distance": "",
+        "difficulty": "",
+        "source": "https://m.tz.bendibao.com/news/23794.shtm"
+      },
+      {
+        "name": "临海·灵湖环湖道",
+        "desc": "台州本地宝“绿道”类骑行路线之一，环灵湖布设。",
+        "distance": "",
+        "difficulty": "",
+        "source": "https://m.tz.bendibao.com/news/23794.shtm"
+      },
+      {
+        "name": "温岭·滨海绿道",
+        "desc": "台州本地宝“绿道”类骑行路线之一，为温岭滨海一带的绿道。",
+        "distance": "",
+        "difficulty": "",
+        "source": "https://m.tz.bendibao.com/news/23794.shtm"
+      }
+    ]
+  },
+  "嘉兴市": {
+    "province": "浙江省",
+    "spots": [
+      {
+        "name": "新塍塘生态绿道",
+        "desc": "连接嘉兴主城区与新塍镇，依托新塍塘而建，沿线有百亩花海、亲水栈道、花架廊桥，曾获评“浙江省最美绿道”、入选“秀洲八景”。",
+        "distance": "12.3公里",
+        "difficulty": "",
+        "source": "https://www.xiuzhou.gov.cn/art/2021/2/3/art_1229412063_4445456.html"
+      },
+      {
+        "name": "湘家荡环湖骑行道",
+        "desc": "骑行道沿湘家荡湖岸而建，路况平整，沿途经过草坪、湿地栈道，北岸观景台可看湖面与对岸仿古塔。",
+        "distance": "约8公里",
+        "difficulty": "",
+        "source": "https://www.inxiang.cn/Article-List/A19311.html"
+      },
+      {
+        "name": "嘉兴环城河绿道",
+        "desc": "沿环抱嘉兴的护城河而建，滨水游步道、人行道、骑行道三线贯通，串联月河、梅湾街、芦席汇等历史街区和范蠡湖公园等。",
+        "distance": "6.7公里",
+        "difficulty": "",
+        "source": "https://zjnews.zjol.com.cn/zjnews/jxnews/202301/t20230101_25249332.shtml"
+      }
+    ]
+  },
+  "宁波市": {
+    "province": "浙江省",
+    "spots": [
+      {
+        "name": "东部新城生态走廊绿道",
+        "desc": "从宁波文化广场出发，经东部新城生态走廊2期、东含湖返回，穿越城市高楼区，沿途有宁波科学探索中心等亲子打卡点。",
+        "distance": "约7公里",
+        "difficulty": "休闲级",
+        "source": "https://nb.ifeng.com/c/8j3tyhp5VDg"
+      },
+      {
+        "name": "梅山湾滨海骑行线",
+        "desc": "环线串联梅山红桥、梅山湾沙滩公园、万人沙滩、梅山湾环岛路，沿海骑行道平坦开阔，可看海湾、沙滩和湿地风光。",
+        "distance": "约15-20公里",
+        "difficulty": "零门槛",
+        "source": "https://nb.ifeng.com/c/8j3tyhp5VDg"
+      },
+      {
+        "name": "东钱湖环湖骑行线",
+        "desc": "从东钱湖湖滨公园出发，经宁波国际会议中心、韩岭老街、南宋石刻公园、下水湿地公园、钱湖五里塘回到湖滨公园，环湖一圈。",
+        "distance": "约35公里",
+        "difficulty": "进阶版",
+        "source": "https://nb.ifeng.com/c/8j3tyhp5VDg"
+      },
+      {
+        "name": "九龙湖四湖连珠骑行线",
+        "desc": "从秦山营地出发，经小洞岙水库、郎家坪水库、香山教寺到九龙湖游客服务中心，串联孔雀湖、天鹅湖、凤凰湖及九龙湖。",
+        "distance": "约12公里",
+        "difficulty": "中级",
+        "source": "https://nb.ifeng.com/c/8j3tyhp5VDg"
+      },
+      {
+        "name": "松兰山至半边山段骑行道",
+        "desc": "从爵溪街道游仙路出发，经松兰山景区、东陈东湾渔村、石浦半边山景区到中国渔村，串联松兰山、红岩、昌国盐厂、石浦渔港等景观。",
+        "distance": "约46.5公里",
+        "difficulty": "高级",
+        "source": "https://nb.ifeng.com/c/8j3tyhp5VDg"
+      }
+    ]
+  },
+  "杭州市": {
+    "province": "浙江省",
+    "spots": [
+      {
+        "name": "龙坞何家村骑行公园",
+        "desc": "位于西湖区龙坞何家村，拥有杭州首条标准山地车赛道，穿行于民宿、茶园、水库、溪流之间，途经龙坞茶镇，被称为“杭州最美赛道”。",
+        "distance": "5.9公里",
+        "difficulty": "",
+        "source": "https://hznews.hangzhou.com.cn/chengshi/content/2023-10/16/content_8629852.htm"
+      },
+      {
+        "name": "戴村森林骑行道",
+        "desc": "位于萧山区戴村镇云石生态旅游度假区石牛山森林公园内，由一条主线和若干辅线组成，平均海拔约400米，串联女娲殿、云门古刹、响天竹风、天狮飞瀑等景点。",
+        "distance": "20公里",
+        "difficulty": "",
+        "source": "https://hznews.hangzhou.com.cn/chengshi/content/2023-10/16/content_8629852.htm"
+      },
+      {
+        "name": "湘湖三期环湖绿道",
+        "desc": "环湘湖三期滨水而建，七色分段、宽4.6米，与机动车道有隔离带，老虎洞游客服务中心及沿线设有公共自行车和景区自行车租赁点。",
+        "distance": "7.6公里",
+        "difficulty": "",
+        "source": "https://hznews.hangzhou.com.cn/chengshi/content/2023-10/16/content_8629852.htm"
+      },
+      {
+        "name": "径山美丽乡村骑行线路",
+        "desc": "以环浙零号为起点，经双溪绿道、四岭水库、径山文化礼堂、花语世界、径山书院等，沿途青山绿水、茂林修竹、花海茶园。",
+        "distance": "25公里",
+        "difficulty": "",
+        "source": "https://hznews.hangzhou.com.cn/chengshi/content/2023-10/16/content_8629852.htm"
+      },
+      {
+        "name": "青山湖环湖绿道",
+        "desc": "位于临安区，与石郜线竹林公路、“鱼跃龙门”大鱼线一同被杭州网列为值得一去的骑行打卡点。",
+        "distance": "",
+        "difficulty": "",
+        "source": "https://hznews.hangzhou.com.cn/chengshi/content/2023-10/16/content_8629852.htm"
+      }
+    ]
+  },
+  "温州市": {
+    "province": "浙江省",
+    "spots": [
+      {
+        "name": "鹿城瓯江路景观带",
+        "desc": "绵延十公里的瓯江路景观带，一侧是都市流光、一侧是开阔江景，是温州城市骑行的热门路线。",
+        "distance": "约10公里",
+        "difficulty": "",
+        "source": "https://m.thepaper.cn/newsDetail_forward_31977512"
+      },
+      {
+        "name": "七都环岛绿道",
+        "desc": "采用自行车骑行道、有氧跑道、步行道多元复合设计，串联七都岛各社区及旅游景点，江岸有粉黛乱子草和灯塔等打卡点。",
+        "distance": "14.8公里",
+        "difficulty": "",
+        "source": "https://m.thepaper.cn/newsDetail_forward_31977512"
+      },
+      {
+        "name": "泽雅龙井红杉林（水杉公路）",
+        "desc": "骑行途中一侧是挺立的水杉、一侧是潺潺溪流，秋季水杉由青绿转为橙黄、锈红，沿途可见白墙黑瓦村落。",
+        "distance": "",
+        "difficulty": "",
+        "source": "https://m.thepaper.cn/newsDetail_forward_31977512"
+      },
+      {
+        "name": "洞头东沙渔港—白迭村线路",
+        "desc": "从东沙渔港启程，经新鸿蓝海度假区、七彩洞头村、沙岙沙滩到白迭村，一路是海风与山色交织的滨海公路。",
+        "distance": "",
+        "difficulty": "",
+        "source": "https://m.thepaper.cn/newsDetail_forward_31977512"
+      },
+      {
+        "name": "苍南168黄金海岸线",
+        "desc": "绵延于苍南东部，串联金色沙滩、岛礁、古朴渔村与滩涂，被称为“山海画廊”，可随停随走看海上日落。",
+        "distance": "",
+        "difficulty": "",
+        "source": "https://m.thepaper.cn/newsDetail_forward_31977512"
+      }
+    ]
+  },
+  "湖州市": {
+    "province": "浙江省",
+    "spots": [
+      {
+        "name": "滨湖大道",
+        "desc": "沿太湖的滨湖骑行路线，一侧是烟波太湖，一侧是江南溇港风情，被“文旅湖州”称为湖州骑行“顶流”。",
+        "distance": "",
+        "difficulty": "",
+        "source": "https://tidenews.com.cn/tmh_news.html?id=69f84e0c5944a20001e58c32"
+      },
+      {
+        "name": "9号公路（环太湖绿道长兴段）",
+        "desc": "国家级户外精品线，路面平整，沿途有补给站和观景台，云梦谷可补给、小憩。",
+        "distance": "",
+        "difficulty": "",
+        "source": "https://tidenews.com.cn/tmh_news.html?id=69f84e0c5944a20001e58c32"
+      },
+      {
+        "name": "南浔古镇外围骑行道",
+        "desc": "从南浔游客中心旁的骑行道出发，沿古镇外围河道骑行，避开主街人流，终点在古镇东栅的老茶馆。",
+        "distance": "",
+        "difficulty": "",
+        "source": "https://tidenews.com.cn/tmh_news.html?id=69f84e0c5944a20001e58c32"
+      },
+      {
+        "name": "莫干山庾村—劳岭水库骑行线",
+        "desc": "串联庾村与劳岭水库，穿越水杉长廊、路过义远有机农场，全程被绿荫、茶田环绕，临水而建。",
+        "distance": "约13公里",
+        "difficulty": "新手友好",
+        "source": "https://tidenews.com.cn/tmh_news.html?id=69f84e0c5944a20001e58c32"
+      },
+      {
+        "name": "安吉天荒坪水库盘山绿道",
+        "desc": "串联天荒坪水库与盘山绿道，一侧是清澈水库、一侧是层峦青山，途中可俯瞰水库全景。",
+        "distance": "",
+        "difficulty": "中等",
+        "source": "https://tidenews.com.cn/tmh_news.html?id=69f84e0c5944a20001e58c32"
+      }
+    ]
+  },
+  "绍兴市": {
+    "province": "浙江省",
+    "spots": [
+      {
+        "name": "迪荡湖景区绿道",
+        "desc": "位于越城区迪荡湖景区，是一条环湖骑行绿道，迪荡湖素有“绍兴版西湖”之称，是市民和游客户外休闲健身的热门地。",
+        "distance": "约8公里",
+        "difficulty": "",
+        "source": "https://news.qq.com/rain/a/20251130A0602G00"
+      },
+      {
+        "name": "鉴湖游步道（鉴湖江南岸慢行系统）",
+        "desc": "依托鉴湖江而建，骑行道贯穿整个慢行系统，同时包含步行道、景观桥、景观亭廊等，可看鉴湖江与花海。",
+        "distance": "约7.1公里",
+        "difficulty": "",
+        "source": "https://gw.jhlydjq.com/index.php/goods/details.html?id=68"
+      },
+      {
+        "name": "曹娥江江堤绿道",
+        "desc": "位于上虞区，沿曹娥江中上游防汛江堤骑行，从东山景区游客中心到拗花山塘路口，江水在侧、青山相望。",
+        "distance": "11.7公里",
+        "difficulty": "",
+        "source": "https://tyj.zj.gov.cn/col/col1347214/art/2026/art_ebb4ca3d368945f692b9512d0413cc0e.html"
+      }
+    ]
+  },
+  "三亚市": {
+    "province": "海南省",
+    "spots": [
+      {
+        "name": "三亚湾骑行线",
+        "desc": "海月广场—三亚湾滨海大道—椰梦长廊，是三亚最经典的海滨骑行线路之一。",
+        "distance": "长达22公里",
+        "difficulty": "",
+        "source": "http://news.hainan.net/zixun/2024/10/28/4781579.shtml"
+      },
+      {
+        "name": "天涯海角骑行线",
+        "desc": "美丽之冠—凤凰路—三亚市第一中学—凤凰国际机场—天涯海角，沿城市主干道骑行，绿化率高。",
+        "distance": "全长24公里",
+        "difficulty": "",
+        "source": "http://news.hainan.net/zixun/2024/10/28/4781579.shtml"
+      },
+      {
+        "name": "亚龙湾骑行线",
+        "desc": "迎宾路—亚龙湾路—太阳湾路，临海路段顺着海湾延伸，坡度较平缓。",
+        "distance": "全程约20公里",
+        "difficulty": "",
+        "source": "http://news.hainan.net/zixun/2024/10/28/4781579.shtml"
+      },
+      {
+        "name": "崖州古城骑行线",
+        "desc": "水南村—还金路—盛德堂—崖城大桥—崖州古城文明门—古崖州城—崖城学宫，线路不长但人文点密集。",
+        "distance": "约7公里",
+        "difficulty": "",
+        "source": "http://news.hainan.net/zixun/2024/10/28/4781579.shtml"
+      }
+    ]
+  },
+  "海口市": {
+    "province": "海南省",
+    "spots": [
+      {
+        "name": "骑楼—万绿园滨海滨江线",
+        "desc": "从骑楼出发，沿钟楼、世纪大桥、云洞图书馆到万绿园，是海口骑友常推荐的市区休闲路线。",
+        "distance": "",
+        "difficulty": "",
+        "source": "http://www.hkwb.net/news/content/2023-02/24/content_4182598.htm"
+      },
+      {
+        "name": "潭丰洋湿地公园",
+        "desc": "海口潭丰洋湿地公园是当地常见的户外骑行去处，可在湿地自然环境中骑行。",
+        "distance": "",
+        "difficulty": "",
+        "source": "http://www.hkwb.net/news/content/2023-02/24/content_4182598.htm"
+      }
+    ]
+  },
+  "宜昌市": {
+    "province": "湖北省",
+    "spots": [
+      {
+        "name": "宜昌滨江绿道",
+        "desc": "从至喜大桥至灯塔广场的连续滨江绿道，绿道、城市通勤道、观江步道三线贯通，沿江可骑行观景。",
+        "distance": "18.6公里",
+        "difficulty": "",
+        "source": "https://news.hubeidaily.net/pc/z_301519.html"
+      },
+      {
+        "name": "城东公园",
+        "desc": "宜昌首个自行车休闲运动公园，设不同难度的骑行道，可满足初级、中级、高级自行车爱好者的需求。",
+        "distance": "",
+        "difficulty": "",
+        "source": "https://k.sina.cn/article_6435188912_17f9130b0001004tr3.html"
+      },
+      {
+        "name": "运河公园",
+        "desc": "运河公园内自行车道伴运河蜿蜒，两岸碧水绿植，是城区休闲骑行地。",
+        "distance": "",
+        "difficulty": "",
+        "source": "https://k.sina.cn/article_6435188912_17f9130b0001004tr3.html"
+      },
+      {
+        "name": "下牢溪",
+        "desc": "位于城市与山水之间的天然骑行线路，青山绿水环绕，适合短途骑游。",
+        "distance": "",
+        "difficulty": "",
+        "source": "https://k.sina.cn/article_6435188912_17f9130b0001004tr3.html"
+      },
+      {
+        "name": "百里荒骑行线",
+        "desc": "从宜昌出发，经夷陵区杜家河、店子垭、汉马岗、罗家洲，骑行至龙泉、百里荒后山，沿途山清水秀、车少人稀。",
+        "distance": "",
+        "difficulty": "",
+        "source": "https://k.sina.cn/article_6435188912_17f9130b0001004tr3.html"
+      }
+    ]
+  },
+  "武汉市": {
+    "province": "湖北省",
+    "spots": [
+      {
+        "name": "东湖绿道",
+        "desc": "全长101.98公里的环东湖绿道，串联磨山、听涛、落雁、渔光、喻家湖五大景区，分湖中道、湖山道、磨山道、郊野道、听涛道、森林道、白马道七段。",
+        "distance": "101.98公里",
+        "difficulty": "",
+        "source": "https://www.cnr.cn/hubei/yw/20240102/t20240102_526543965.shtml"
+      },
+      {
+        "name": "后官湖绿道",
+        "desc": "武汉首条郊野绿道，环后官湖、知音湖、白莲湖、高湖，设骑行专用车道、人行步道及服务驿站。",
+        "distance": "约110公里",
+        "difficulty": "",
+        "source": "https://swj.wuhan.gov.cn/tzdt/hhzz/202610/t20261015_2861554.html"
+      },
+      {
+        "name": "汉口沿江大道线",
+        "desc": "从汉口沿河大道龙王庙出发，经沿江大道武汉关至长江二桥，沿江可看汉江与长江交汇及汉口老建筑。",
+        "distance": "约10公里",
+        "difficulty": "",
+        "source": "https://www.biketo.com/tour/10772.html"
+      },
+      {
+        "name": "东湖听涛—磨山环湖线",
+        "desc": "省博物馆、省美术馆—听涛景区—梨园广场—沿湖路—落雁—磨山—东湖南路—天鹅路的环东湖经典骑游线。",
+        "distance": "",
+        "difficulty": "",
+        "source": "https://www.biketo.com/tour/10772.html"
+      },
+      {
+        "name": "木兰山骑行线",
+        "desc": "从黄陂体育馆出发，沿木兰大道至木兰山后折返，是武汉骑友常去的山地爬坡路线。",
+        "distance": "约66公里",
+        "difficulty": "",
+        "source": "https://www.xiaohongshu.com/discovery/item/68382ced00000000210197b3"
+      }
+    ]
+  },
+  "张家界市": {
+    "province": "湖南省",
+    "spots": [
+      {
+        "name": "武陵源插园公路慢行道",
+        "desc": "插园公路全长13.92公里，其中慢行专用道7.1公里，融合徒步绿道与自行车道，串联雄关百丈、御笔峰等观景台，沿线设4个骑行驿站。",
+        "distance": "7.1公里（慢行道）",
+        "difficulty": "",
+        "source": "https://zjj.rednet.cn/m/content/646048/64/15854569.html"
+      },
+      {
+        "name": "天门山“天路”自行车挑战赛道",
+        "desc": "天门山通天大道以99道弯闻名，挑战赛道约18公里，从海拔约180米升至天门洞附近约1100米；平时不对外开放自行车骑行，仅赛事期间开放。",
+        "distance": "约18公里",
+        "difficulty": "",
+        "source": "https://www.zjjnews.cn/nusxw/20260901/362a8da0bdf34bcfa0aff6bbf5efae6e"
+      },
+      {
+        "name": "张家界峡谷风光骑行线",
+        "desc": "武陵源景区东门—魅力湘西—百丈峡—插旗峪—掉头返回景区东门，沿途可赏张家界地貌峰林，部分路段有坡度。",
+        "distance": "约21公里",
+        "difficulty": "",
+        "source": "https://moment.rednet.cn/pc/content/646054/61/16416148.html"
+      },
+      {
+        "name": "环天门山水库环线",
+        "desc": "从张家界市区出发绕天门山水库的环线，总长约50多公里，含山路爬升，是当地骑友的周末路线。",
+        "distance": "约50公里",
+        "difficulty": "",
+        "source": "https://www.xiaohongshu.com/discovery/item/6832fac00000000020028c95"
+      },
+      {
+        "name": "杨家界大环线",
+        "desc": "永定区—杨家界—黄石寨森林公园—永定区的大环线，全程约84公里，爬升约1000米，以山路为主。",
+        "distance": "约84公里",
+        "difficulty": "",
+        "source": "https://www.xiaohongshu.com/discovery/item/69ea04eb000000001f031006"
+      }
+    ]
+  },
+  "长沙市": {
+    "province": "湖南省",
+    "spots": [
+      {
+        "name": "潇湘大道景观道",
+        "desc": "从银星湾公园向北至香炉洲大桥段，13公里滨江骑行道，串联月亮岛、大泽湖湿地公园、海归小镇，沿线设智慧驿站和淋浴间。",
+        "distance": "13公里",
+        "difficulty": "",
+        "source": "https://moment.rednet.cn/pc/content/646054/61/16416148.html"
+      },
+      {
+        "name": "浏阳河风光带",
+        "desc": "从三馆一厅（滨江文化园）至圆点美术馆，16公里平缓绿道，途经鸭嘴公园、浏阳河“九道湾”、汉桥、隆平水稻博物馆。",
+        "distance": "16公里",
+        "difficulty": "",
+        "source": "https://moment.rednet.cn/pc/content/646054/61/16416148.html"
+      },
+      {
+        "name": "松雅湖骑行环线",
+        "desc": "环松雅湖绿道约13公里，全程无陡坡，亲子友好，是长沙县松雅湖自行车赛的举办地。",
+        "distance": "约13公里",
+        "difficulty": "",
+        "source": "https://moment.rednet.cn/pc/content/646054/61/16416148.html"
+      },
+      {
+        "name": "梅溪湖艺术环线",
+        "desc": "梅溪湖大剧院—城市岛—文化岛9公里环线，全程平缓，串联扎哈建筑“芙蓉花”、节庆岛、沙滩公园等。",
+        "distance": "9公里",
+        "difficulty": "",
+        "source": "https://moment.rednet.cn/pc/content/646054/61/16416148.html"
+      },
+      {
+        "name": "西湖公园环湖线",
+        "desc": "绕长沙西湖公园一圈约4.6公里，路面宽阔、机动车与非机动车分离，适合亲子休闲骑行。",
+        "distance": "约4.6公里",
+        "difficulty": "",
+        "source": "https://moment.rednet.cn/pc/content/646054/61/16416148.html"
+      }
+    ]
+  },
+  "澳门": {
+    "province": "澳门特别行政区",
+    "spots": [
+      {
+        "name": "路环莲花单车径",
+        "desc": "澳门特别行政区政府公布的路环莲花单车径，优化后路线延长，可在澳门大学隧道、蝴蝶谷大马路巴士总站及联生圆形地巴士总站租还车。",
+        "distance": "约近4公里",
+        "difficulty": "",
+        "source": "https://www.gov.mo/zh-hans/news/855363/"
+      }
+    ]
+  },
+  "澳门特别行政区": {
+    "province": "澳门特别行政区",
+    "spots": [
+      {
+        "name": "路环莲花单车径",
+        "desc": "澳门特别行政区政府公布的路环莲花单车径，优化后路线延长，可在澳门大学隧道、蝴蝶谷大马路巴士总站及联生圆形地巴士总站租还车。",
+        "distance": "约近4公里",
+        "difficulty": "",
+        "source": "https://www.gov.mo/zh-hans/news/855363/"
+      }
+    ]
+  },
+  "兰州市": {
+    "province": "甘肃省",
+    "spots": [
+      {
+        "name": "黄河风情线（南北滨河路）",
+        "desc": "沿黄河北、南滨河路骑行，是兰州市内最主要的滨河观光骑行线路。",
+        "distance": "约60公里",
+        "difficulty": "",
+        "source": "http://lz.bendibao.com/tour/2019103/43876.shtm"
+      }
+    ]
+  },
+  "厦门市": {
+    "province": "福建省",
+    "spots": [
+      {
+        "name": "环杏林湾自行车道",
+        "desc": "位于集美区，杏林湾岸线总长20.6公里，已打造为以生态运动为主题的滨水休闲带，沿湾可远眺园博苑、集美新城。",
+        "distance": "约26公里",
+        "difficulty": "",
+        "source": "https://www.163.com/dy/article/IPF6LBUK0530MKMJ.html"
+      },
+      {
+        "name": "杏林湾海上自行车道",
+        "desc": "横跨海湾的红色骑行道，配白色护栏，是环杏林湾自行车道的海上延展部分，也是福建省唯一的海上自行车道。",
+        "distance": "2.6公里",
+        "difficulty": "",
+        "source": "https://www.163.com/dy/article/IPF6LBUK0530MKMJ.html"
+      },
+      {
+        "name": "五缘湾“蓝丝带”慢行步道",
+        "desc": "环岛海景慢道，起点在五缘湾桥墩体育公园，沿途经厦门国际游艇汇、湿地公园、天圆桥、人圆桥、地圆桥到五缘湾沙滩。",
+        "distance": "23.6公里",
+        "difficulty": "",
+        "source": "https://m.thepaper.cn/newsDetail_forward_33519037"
+      }
+    ]
+  },
+  "泉州市": {
+    "province": "福建省",
+    "spots": [
+      {
+        "name": "滨海生态浪漫线",
+        "desc": "西起东海泰禾、东至洛江洛阳桥，采用骑行道、跑步道、慢行道“三线并行”设计，串联沿线滨海景观与公共开放空间。",
+        "distance": "近20公里",
+        "difficulty": "",
+        "source": "https://tyj.quanzhou.gov.cn/xxgk/zfxxgk/fdzdgknr/rdjyzxta/zxwyta/202607/t20260730_3313545.htm"
+      },
+      {
+        "name": "洛江环惠女水库自行车道",
+        "desc": "泉州市体育局答复中提到已建成投用的自行车道，位于洛江环惠女水库一带。",
+        "distance": "8.9公里",
+        "difficulty": "",
+        "source": "https://tyj.quanzhou.gov.cn/xxgk/zfxxgk/fdzdgknr/rdjyzxta/zxwyta/202607/t20260730_3313545.htm"
+      },
+      {
+        "name": "泉州山线绿道",
+        "desc": "起于西湖公园北大门，经清源山风景区、少林寺、大坪山公园、桃花山公园、森林公园、观音山公园、市行政中心，终至东海滨海公园。",
+        "distance": "约22.5公里",
+        "difficulty": "",
+        "source": "https://www.quanzhou.gov.cn/zfb/xxgk/zfxxgkzl/qzdt/qzyw/201611/t20161129_398099.htm"
+      }
+    ]
+  },
+  "福州市": {
+    "province": "福建省",
+    "spots": [
+      {
+        "name": "环南台岛滨江休闲路",
+        "desc": "沿南台岛岸线建设，由观光机动车道、自行车绿道、人行绿道组成，串联淮安头、洪塘堤外公园、螺洲古镇、三江口、花海公园等景观。",
+        "distance": "60公里",
+        "difficulty": "",
+        "source": "https://www.fuzhou.gov.cn/zgfzzt/brgjxd/xmjz/201608/t20160829_112701.htm"
+      },
+      {
+        "name": "鼓宦公路（鼓山—鼓岭）",
+        "desc": "从鼓山到鼓岭的盘山公路，被福州晚报称为“福州最美盘山公路”，是福州骑友常走的爬坡路线。",
+        "distance": "",
+        "difficulty": "",
+        "source": "https://www.163.com/dy/article/K8DIJCTC0550IMZX.html"
+      },
+      {
+        "name": "江滨大道（南北江滨）",
+        "desc": "沿闽江北港北岸的城市景观主干道，南北江滨大道是福州骑友晨练的热门路线，沿线江滨公园长约10.5公里。",
+        "distance": "约25公里",
+        "difficulty": "",
+        "source": "https://baike.baidu.com/item/%E7%A6%8F%E5%B7%9E%E6%B1%9F%E6%BB%A8%E5%A4%A7%E9%81%93/2350362"
+      },
+      {
+        "name": "旗山",
+        "desc": "与鼓山齐名，被福州晚报列为骑友们挑战耐力的首选场地。",
+        "distance": "",
+        "difficulty": "",
+        "source": "https://www.163.com/dy/article/K8DIJCTC0550IMZX.html"
+      }
+    ]
+  },
+  "拉萨市": {
+    "province": "西藏自治区",
+    "spots": [
+      {
+        "name": "川藏南线拉萨段（G318）",
+        "desc": "川藏公路南线经林芝至拉萨，是进藏骑行的终点路段之一。可对照西藏交通运输厅的川藏公路介绍了解走向。",
+        "distance": "",
+        "difficulty": "高原长途",
+        "source": "https://jtt.xizang.gov.cn/xxgk/fdzdgknr/jggk/jtgk/201611/t20161130_233602.html"
+      }
+    ]
+  },
+  "林芝市": {
+    "province": "西藏自治区",
+    "spots": [
+      {
+        "name": "川藏南线林芝段（波密—鲁朗—林芝）",
+        "desc": "318川藏南线经波密、通麦、鲁朗到林芝，沿帕隆藏布和尼洋河谷，是进藏骑行风景最集中的路段之一。",
+        "distance": "",
+        "difficulty": "高原长途，需注意通麦等路段路况",
+        "source": "https://www.biketo.com/tour/32892.html"
+      }
+    ]
+  },
+  "贵阳市": {
+    "province": "贵州省",
+    "spots": [
+      {
+        "name": "花溪公园—十里河滩—孔学堂",
+        "desc": "从花溪公园经十里河滩、麦翁布依古寨到孔学堂，是贵阳常见的滨河休闲骑行线路。",
+        "distance": "约15公里",
+        "difficulty": "",
+        "source": "https://news.qq.com/rain/a/20240328A08ZYV00"
+      }
+    ]
+  },
+  "大连市": {
+    "province": "辽宁省",
+    "spots": [
+      {
+        "name": "横山寺—西郊国家森林公园—棠梨湖—西山湖—长青湖",
+        "desc": "串起横山寺北普陀主题文化公园与西郊国家森林公园及多个湖区的城市骑行线路。",
+        "distance": "",
+        "difficulty": "",
+        "source": "https://dl.bendibao.com/tour/2024320/82923.shtm"
+      },
+      {
+        "name": "金石滩滨海线",
+        "desc": "从金石文化博览广场经快乐海岸、金湾大桥、滨海地质公园、金石园至金石万象，沿海岸骑行。",
+        "distance": "",
+        "difficulty": "",
+        "source": "https://dl.bendibao.com/tour/2024320/82923.shtm"
+      },
+      {
+        "name": "旅顺太阳沟—白玉山线",
+        "desc": "途经太阳沟景区、旅顺樱花园、清风小镇闯关东影视基地、白玉山、旅顺口、旅顺火车站和旅顺博物馆。",
+        "distance": "",
+        "difficulty": "",
+        "source": "https://dl.bendibao.com/tour/2024320/82923.shtm"
+      },
+      {
+        "name": "东方水城—中山广场—俄罗斯风情街",
+        "desc": "从东方水城经海军广场、植物园、南山路、中山广场、胜利桥到俄罗斯风情街的市区风情线。",
+        "distance": "",
+        "difficulty": "",
+        "source": "https://dl.bendibao.com/tour/2024320/82923.shtm"
+      }
+    ]
+  },
+  "沈阳市": {
+    "province": "辽宁省",
+    "spots": [
+      {
+        "name": "九·一八历史博物馆—法库财湖风景区",
+        "desc": "沈阳官方推荐的春日骑行线路，路面平坦、车流不大，沿途风景较好。",
+        "distance": "往返约150公里",
+        "difficulty": "",
+        "source": "https://www.shenyang.gov.cn/english/culture/202403/t20240325_4621216.html"
+      },
+      {
+        "name": "北陵西门—辽河七星湿地公园",
+        "desc": "从北陵公园西门出发，骑向辽河七星湿地公园，沿途风光开阔。",
+        "distance": "往返约90公里",
+        "difficulty": "",
+        "source": "https://www.shenyang.gov.cn/english/culture/202403/t20240325_4621216.html"
+      },
+      {
+        "name": "长青桥—七彩谷—森林公园—棋盘山北门",
+        "desc": "从长青桥经七彩谷、森林公园骑至棋盘山景区北门，沿途有乡村、森林和湖泊，是近年热门线路。",
+        "distance": "往返近110公里",
+        "difficulty": "",
+        "source": "https://www.shenyang.gov.cn/english/culture/202403/t20240325_4621216.html"
+      }
+    ]
+  },
+  "重庆市": {
+    "province": "重庆市",
+    "spots": [
+      {
+        "name": "南岸“一江一山一岛”户外线路",
+        "desc": "入选国家体育总局2024年国庆假期户外运动精品线路。可经南山茶马古道、黄桷垭老街、南山综合运动公园等，再沿南滨路至广阳岛。",
+        "distance": "全长110公里",
+        "difficulty": "",
+        "source": "https://www.cq.gov.cn/zwgk/zfxxgkml/zdlyxxgk/ggwh/ty/ty/202409/t20240927_13668171.html"
+      },
+      {
+        "name": "广阳岛环岛骑行道",
+        "desc": "广阳岛设有环岛骑行和生态步道，可经西岛头、彩树林、高峰梯田、油菜花田、东岛头等地。",
+        "distance": "环岛骑行道约11公里",
+        "difficulty": "",
+        "source": "https://www.cq.gov.cn/zjcq/ydjs/scbd/202408/t20240808_13482634.html"
+      }
+    ]
+  },
+  "西安市": {
+    "province": "陕西省",
+    "spots": [
+      {
+        "name": "西安城墙骑行",
+        "desc": "可沿西安城墙骑行，是西安最知名的城市骑行体验之一。",
+        "distance": "环线13.74公里",
+        "difficulty": "",
+        "source": "https://news.qq.com/rain/a/20240901A04F4300"
+      },
+      {
+        "name": "三河一山绿道",
+        "desc": "西安城区及周边的绿道骑行选择，与城墙、昆明池等线路一同被推荐给市民骑行。",
+        "distance": "",
+        "difficulty": "",
+        "source": "https://news.qq.com/rain/a/20240901A04F4300"
+      },
+      {
+        "name": "昆明池环湖线",
+        "desc": "环昆明池骑行，是西安南郊常见的休闲骑行线路。",
+        "distance": "",
+        "difficulty": "",
+        "source": "https://news.qq.com/rain/a/20240901A04F4300"
+      }
+    ]
+  },
+  "西宁市": {
+    "province": "青海省",
+    "spots": [
+      {
+        "name": "环青海湖骑行",
+        "desc": "入选2024年“中国骑行地图”的青海经典长途线路，常以西宁为集散和起止点，沿青海湖环线骑行。",
+        "distance": "",
+        "difficulty": "高原长途",
+        "source": "http://www.qinghai.gov.cn/dmqh/system/2024/11/10/030057803.shtml"
+      },
+      {
+        "name": "西宁大酉山骑行路线",
+        "desc": "入选2024年“中国骑行地图”的西宁本地路线之一。",
+        "distance": "",
+        "difficulty": "",
+        "source": "http://www.qinghai.gov.cn/dmqh/system/2024/11/10/030057803.shtml"
+      }
+    ]
+  },
+  "香港": {
+    "province": "香港特别行政区",
+    "spots": [
+      {
+        "name": "吐露港单车径",
+        "desc": "由沙田城门河畔经香港科学园、大埔元洲仔至大美督，可在沙田或大埔租用单车。",
+        "distance": "",
+        "difficulty": "",
+        "source": "https://www.gohk.gov.hk/tc/spots/spot_detail.php?spot=Tolo+Harbour+Cycling+Track"
+      },
+      {
+        "name": "新界主要单车径网络",
+        "desc": "香港运输署公布的新界主要单车径及泊车地点，覆盖多段已建成的专用单车径，可查阅路线与配套。",
+        "distance": "",
+        "difficulty": "",
+        "source": "https://www.td.gov.hk/mini_site/cic/tc/cycling-infrastructure/cycle-tracks-and-parkings/index.html"
+      }
+    ]
+  },
+  "香港特别行政区": {
+    "province": "香港特别行政区",
+    "spots": [
+      {
+        "name": "吐露港单车径",
+        "desc": "由沙田城门河畔经香港科学园、大埔元洲仔至大美督，可在沙田或大埔租用单车。",
+        "distance": "",
+        "difficulty": "",
+        "source": "https://www.gohk.gov.hk/tc/spots/spot_detail.php?spot=Tolo+Harbour+Cycling+Track"
+      },
+      {
+        "name": "新界主要单车径网络",
+        "desc": "香港运输署公布的新界主要单车径及泊车地点，覆盖多段已建成的专用单车径，可查阅路线与配套。",
+        "distance": "",
+        "difficulty": "",
+        "source": "https://www.td.gov.hk/mini_site/cic/tc/cycling-infrastructure/cycle-tracks-and-parkings/index.html"
+      }
+    ]
+  },
+  "哈尔滨市": {
+    "province": "黑龙江省",
+    "spots": [
+      {
+        "name": "太阳岛骑行路线",
+        "desc": "入选中国自行车运动协会2024年“中国骑行地图”精品骑行路线。可在全长7100米的太阳岛健身步道骑行，欣赏松花江与岛上湿地风光。",
+        "distance": "健身步道7100米",
+        "difficulty": "",
+        "source": "http://www.hlj.xinhuanet.com/20241127/ea3cae540aea4dc692cecb222eb0634e/c.html"
+      }
+    ]
+  },
+  "临沧市": {
+    "province": "云南省",
+    "spots": []
+  },
+  "保山市": {
+    "province": "云南省",
+    "spots": []
+  },
+  "德宏傣族景颇族自治州": {
+    "province": "云南省",
+    "spots": []
+  },
+  "文山壮族苗族自治州": {
+    "province": "云南省",
+    "spots": []
+  },
+  "昭通市": {
+    "province": "云南省",
+    "spots": []
+  },
+  "普洱市": {
+    "province": "云南省",
+    "spots": []
+  },
+  "曲靖市": {
+    "province": "云南省",
+    "spots": []
+  },
+  "楚雄彝族自治州": {
+    "province": "云南省",
+    "spots": []
+  },
+  "玉溪市": {
+    "province": "云南省",
+    "spots": []
+  },
+  "红河哈尼族彝族自治州": {
+    "province": "云南省",
+    "spots": []
+  },
+  "西双版纳傣族自治州": {
+    "province": "云南省",
+    "spots": []
+  },
+  "乌兰察布市": {
+    "province": "内蒙古自治区",
+    "spots": []
+  },
+  "乌海市": {
+    "province": "内蒙古自治区",
+    "spots": []
+  },
+  "兴安盟": {
+    "province": "内蒙古自治区",
+    "spots": []
+  },
+  "包头市": {
+    "province": "内蒙古自治区",
+    "spots": []
+  },
+  "巴彦淖尔市": {
+    "province": "内蒙古自治区",
+    "spots": []
+  },
+  "赤峰市": {
+    "province": "内蒙古自治区",
+    "spots": []
+  },
+  "通辽市": {
+    "province": "内蒙古自治区",
+    "spots": []
+  },
+  "鄂尔多斯市": {
+    "province": "内蒙古自治区",
+    "spots": []
+  },
+  "锡林郭勒盟": {
+    "province": "内蒙古自治区",
+    "spots": []
+  },
+  "阿拉善盟": {
+    "province": "内蒙古自治区",
+    "spots": []
+  },
+  "南投县": {
+    "province": "台湾省",
+    "spots": []
+  },
+  "台中市": {
+    "province": "台湾省",
+    "spots": []
+  },
+  "台南市": {
+    "province": "台湾省",
+    "spots": []
+  },
+  "嘉义市": {
+    "province": "台湾省",
+    "spots": []
+  },
+  "基隆市": {
+    "province": "台湾省",
+    "spots": []
+  },
+  "宜兰县": {
+    "province": "台湾省",
+    "spots": []
+  },
+  "屏东县": {
+    "province": "台湾省",
+    "spots": []
+  },
+  "新北市": {
+    "province": "台湾省",
+    "spots": []
+  },
+  "新竹市": {
+    "province": "台湾省",
+    "spots": []
+  },
+  "桃园市": {
+    "province": "台湾省",
+    "spots": []
+  },
+  "四平市": {
+    "province": "吉林省",
+    "spots": []
+  },
+  "松原市": {
+    "province": "吉林省",
+    "spots": []
+  },
+  "白城市": {
+    "province": "吉林省",
+    "spots": []
+  },
+  "白山市": {
+    "province": "吉林省",
+    "spots": []
+  },
+  "辽源市": {
+    "province": "吉林省",
+    "spots": []
+  },
+  "通化市": {
+    "province": "吉林省",
+    "spots": []
+  },
+  "内江市": {
+    "province": "四川省",
+    "spots": []
+  },
+  "凉山彝族自治州": {
+    "province": "四川省",
+    "spots": []
+  },
+  "南充市": {
+    "province": "四川省",
+    "spots": []
+  },
+  "宜宾市": {
+    "province": "四川省",
+    "spots": []
+  },
+  "巴中市": {
+    "province": "四川省",
+    "spots": []
+  },
+  "广元市": {
+    "province": "四川省",
+    "spots": []
+  },
+  "广安市": {
+    "province": "四川省",
+    "spots": []
+  },
+  "德阳市": {
+    "province": "四川省",
+    "spots": []
+  },
+  "攀枝花市": {
+    "province": "四川省",
+    "spots": []
+  },
+  "泸州市": {
+    "province": "四川省",
+    "spots": []
+  },
+  "眉山市": {
+    "province": "四川省",
+    "spots": []
+  },
+  "绵阳市": {
+    "province": "四川省",
+    "spots": []
+  },
+  "自贡市": {
+    "province": "四川省",
+    "spots": []
+  },
+  "资阳市": {
+    "province": "四川省",
+    "spots": []
+  },
+  "达州市": {
+    "province": "四川省",
+    "spots": []
+  },
+  "遂宁市": {
+    "province": "四川省",
+    "spots": []
+  },
+  "阿坝藏族羌族自治州": {
+    "province": "四川省",
+    "spots": []
+  },
+  "中卫市": {
+    "province": "宁夏回族自治区",
+    "spots": []
+  },
+  "吴忠市": {
+    "province": "宁夏回族自治区",
+    "spots": []
+  },
+  "固原市": {
+    "province": "宁夏回族自治区",
+    "spots": []
+  },
+  "石嘴山市": {
+    "province": "宁夏回族自治区",
+    "spots": []
+  },
+  "亳州市": {
+    "province": "安徽省",
+    "spots": []
+  },
+  "六安市": {
+    "province": "安徽省",
+    "spots": []
+  },
+  "安庆市": {
+    "province": "安徽省",
+    "spots": []
+  },
+  "宣城市": {
+    "province": "安徽省",
+    "spots": []
+  },
+  "宿州市": {
+    "province": "安徽省",
+    "spots": []
+  },
+  "池州市": {
+    "province": "安徽省",
+    "spots": []
+  },
+  "淮北市": {
+    "province": "安徽省",
+    "spots": []
+  },
+  "淮南市": {
+    "province": "安徽省",
+    "spots": []
+  },
+  "滁州市": {
+    "province": "安徽省",
+    "spots": []
+  },
+  "蚌埠市": {
+    "province": "安徽省",
+    "spots": []
+  },
+  "铜陵市": {
+    "province": "安徽省",
+    "spots": []
+  },
+  "阜阳市": {
+    "province": "安徽省",
+    "spots": []
+  },
+  "马鞍山市": {
+    "province": "安徽省",
+    "spots": []
+  },
+  "东营市": {
+    "province": "山东省",
+    "spots": []
+  },
+  "临沂市": {
+    "province": "山东省",
+    "spots": []
+  },
+  "德州市": {
+    "province": "山东省",
+    "spots": []
+  },
+  "枣庄市": {
+    "province": "山东省",
+    "spots": []
+  },
+  "济宁市": {
+    "province": "山东省",
+    "spots": []
+  },
+  "淄博市": {
+    "province": "山东省",
+    "spots": []
+  },
+  "滨州市": {
+    "province": "山东省",
+    "spots": []
+  },
+  "潍坊市": {
+    "province": "山东省",
+    "spots": []
+  },
+  "聊城市": {
+    "province": "山东省",
+    "spots": []
+  },
+  "菏泽市": {
+    "province": "山东省",
+    "spots": []
+  },
+  "临汾市": {
+    "province": "山西省",
+    "spots": []
+  },
+  "吕梁市": {
+    "province": "山西省",
+    "spots": []
+  },
+  "大同市": {
+    "province": "山西省",
+    "spots": []
+  },
+  "忻州市": {
+    "province": "山西省",
+    "spots": []
+  },
+  "晋中市": {
+    "province": "山西省",
+    "spots": []
+  },
+  "晋城市": {
+    "province": "山西省",
+    "spots": []
+  },
+  "朔州市": {
+    "province": "山西省",
+    "spots": []
+  },
+  "运城市": {
+    "province": "山西省",
+    "spots": []
+  },
+  "长治市": {
+    "province": "山西省",
+    "spots": []
+  },
+  "阳泉市": {
+    "province": "山西省",
+    "spots": []
+  },
+  "云浮市": {
+    "province": "广东省",
+    "spots": []
+  },
+  "佛山市": {
+    "province": "广东省",
+    "spots": []
+  },
+  "揭阳市": {
+    "province": "广东省",
+    "spots": []
+  },
+  "梅州市": {
+    "province": "广东省",
+    "spots": []
+  },
+  "汕头市": {
+    "province": "广东省",
+    "spots": []
+  },
+  "汕尾市": {
+    "province": "广东省",
+    "spots": []
+  },
+  "江门市": {
+    "province": "广东省",
+    "spots": []
+  },
+  "河源市": {
+    "province": "广东省",
+    "spots": []
+  },
+  "清远市": {
+    "province": "广东省",
+    "spots": []
+  },
+  "湛江市": {
+    "province": "广东省",
+    "spots": []
+  },
+  "潮州市": {
+    "province": "广东省",
+    "spots": []
+  },
+  "肇庆市": {
+    "province": "广东省",
+    "spots": []
+  },
+  "茂名市": {
+    "province": "广东省",
+    "spots": []
+  },
+  "韶关市": {
+    "province": "广东省",
+    "spots": []
+  },
+  "崇左市": {
+    "province": "广西壮族自治区",
+    "spots": []
+  },
+  "来宾市": {
+    "province": "广西壮族自治区",
+    "spots": []
+  },
+  "柳州市": {
+    "province": "广西壮族自治区",
+    "spots": []
+  },
+  "梧州市": {
+    "province": "广西壮族自治区",
+    "spots": []
+  },
+  "河池市": {
+    "province": "广西壮族自治区",
+    "spots": []
+  },
+  "玉林市": {
+    "province": "广西壮族自治区",
+    "spots": []
+  },
+  "百色市": {
+    "province": "广西壮族自治区",
+    "spots": []
+  },
+  "贵港市": {
+    "province": "广西壮族自治区",
+    "spots": []
+  },
+  "贺州市": {
+    "province": "广西壮族自治区",
+    "spots": []
+  },
+  "钦州市": {
+    "province": "广西壮族自治区",
+    "spots": []
+  },
+  "防城港市": {
+    "province": "广西壮族自治区",
+    "spots": []
+  },
+  "五家渠市": {
+    "province": "新疆维吾尔自治区",
+    "spots": []
+  },
+  "伊犁哈萨克自治州": {
+    "province": "新疆维吾尔自治区",
+    "spots": []
+  },
+  "克孜勒苏柯尔克孜自治州": {
+    "province": "新疆维吾尔自治区",
+    "spots": []
+  },
+  "克拉玛依市": {
+    "province": "新疆维吾尔自治区",
+    "spots": []
+  },
+  "北屯市": {
+    "province": "新疆维吾尔自治区",
+    "spots": []
+  },
+  "博尔塔拉蒙古自治州": {
+    "province": "新疆维吾尔自治区",
+    "spots": []
+  },
+  "双河市": {
+    "province": "新疆维吾尔自治区",
+    "spots": []
+  },
+  "可克达拉市": {
+    "province": "新疆维吾尔自治区",
+    "spots": []
+  },
+  "吐鲁番市": {
+    "province": "新疆维吾尔自治区",
+    "spots": []
+  },
+  "和田地区": {
+    "province": "新疆维吾尔自治区",
+    "spots": []
+  },
+  "哈密市": {
+    "province": "新疆维吾尔自治区",
+    "spots": []
+  },
+  "喀什地区": {
+    "province": "新疆维吾尔自治区",
+    "spots": []
+  },
+  "图木舒克市": {
+    "province": "新疆维吾尔自治区",
+    "spots": []
+  },
+  "塔城地区": {
+    "province": "新疆维吾尔自治区",
+    "spots": []
+  },
+  "巴音郭楞蒙古自治州": {
+    "province": "新疆维吾尔自治区",
+    "spots": []
+  },
+  "昆玉市": {
+    "province": "新疆维吾尔自治区",
+    "spots": []
+  },
+  "昌吉回族自治州": {
+    "province": "新疆维吾尔自治区",
+    "spots": []
+  },
+  "石河子市": {
+    "province": "新疆维吾尔自治区",
+    "spots": []
+  },
+  "胡杨河市": {
+    "province": "新疆维吾尔自治区",
+    "spots": []
+  },
+  "铁门关市": {
+    "province": "新疆维吾尔自治区",
+    "spots": []
+  },
+  "阿克苏地区": {
+    "province": "新疆维吾尔自治区",
+    "spots": []
+  },
+  "阿勒泰地区": {
+    "province": "新疆维吾尔自治区",
+    "spots": []
+  },
+  "阿拉尔市": {
+    "province": "新疆维吾尔自治区",
+    "spots": []
+  },
+  "泰州市": {
+    "province": "江苏省",
+    "spots": []
+  },
+  "盐城市": {
+    "province": "江苏省",
+    "spots": []
+  },
+  "上饶市": {
+    "province": "江西省",
+    "spots": []
+  },
+  "吉安市": {
+    "province": "江西省",
+    "spots": []
+  },
+  "宜春市": {
+    "province": "江西省",
+    "spots": []
+  },
+  "抚州市": {
+    "province": "江西省",
+    "spots": []
+  },
+  "新余市": {
+    "province": "江西省",
+    "spots": []
+  },
+  "景德镇市": {
+    "province": "江西省",
+    "spots": []
+  },
+  "萍乡市": {
+    "province": "江西省",
+    "spots": []
+  },
+  "赣州市": {
+    "province": "江西省",
+    "spots": []
+  },
+  "鹰潭市": {
+    "province": "江西省",
+    "spots": []
+  },
+  "保定市": {
+    "province": "河北省",
+    "spots": []
+  },
+  "唐山市": {
+    "province": "河北省",
+    "spots": []
+  },
+  "廊坊市": {
+    "province": "河北省",
+    "spots": []
+  },
+  "沧州市": {
+    "province": "河北省",
+    "spots": []
+  },
+  "衡水市": {
+    "province": "河北省",
+    "spots": []
+  },
+  "邢台市": {
+    "province": "河北省",
+    "spots": []
+  },
+  "邯郸市": {
+    "province": "河北省",
+    "spots": []
+  },
+  "三门峡市": {
+    "province": "河南省",
+    "spots": []
+  },
+  "信阳市": {
+    "province": "河南省",
+    "spots": []
+  },
+  "南阳市": {
+    "province": "河南省",
+    "spots": []
+  },
+  "周口市": {
+    "province": "河南省",
+    "spots": []
+  },
+  "商丘市": {
+    "province": "河南省",
+    "spots": []
+  },
+  "安阳市": {
+    "province": "河南省",
+    "spots": []
+  },
+  "平顶山市": {
+    "province": "河南省",
+    "spots": []
+  },
+  "新乡市": {
+    "province": "河南省",
+    "spots": []
+  },
+  "济源市": {
+    "province": "河南省",
+    "spots": []
+  },
+  "漯河市": {
+    "province": "河南省",
+    "spots": []
+  },
+  "濮阳市": {
+    "province": "河南省",
+    "spots": []
+  },
+  "焦作市": {
+    "province": "河南省",
+    "spots": []
+  },
+  "许昌市": {
+    "province": "河南省",
+    "spots": []
+  },
+  "驻马店市": {
+    "province": "河南省",
+    "spots": []
+  },
+  "鹤壁市": {
+    "province": "河南省",
+    "spots": []
+  },
+  "丽水市": {
+    "province": "浙江省",
+    "spots": []
+  },
+  "舟山市": {
+    "province": "浙江省",
+    "spots": []
+  },
+  "衢州市": {
+    "province": "浙江省",
+    "spots": []
+  },
+  "金华市": {
+    "province": "浙江省",
+    "spots": []
+  },
+  "万宁市": {
+    "province": "海南省",
+    "spots": []
+  },
+  "三沙市": {
+    "province": "海南省",
+    "spots": []
+  },
+  "东方市": {
+    "province": "海南省",
+    "spots": []
+  },
+  "临高县": {
+    "province": "海南省",
+    "spots": []
+  },
+  "乐东黎族自治县": {
+    "province": "海南省",
+    "spots": []
+  },
+  "五指山市": {
+    "province": "海南省",
+    "spots": []
+  },
+  "保亭黎族苗族自治县": {
+    "province": "海南省",
+    "spots": []
+  },
+  "儋州市": {
+    "province": "海南省",
+    "spots": []
+  },
+  "定安县": {
+    "province": "海南省",
+    "spots": []
+  },
+  "屯昌县": {
+    "province": "海南省",
+    "spots": []
+  },
+  "文昌市": {
+    "province": "海南省",
+    "spots": []
+  },
+  "昌江黎族自治县": {
+    "province": "海南省",
+    "spots": []
+  },
+  "澄迈县": {
+    "province": "海南省",
+    "spots": []
+  },
+  "琼中黎族苗族自治县": {
+    "province": "海南省",
+    "spots": []
+  },
+  "琼海市": {
+    "province": "海南省",
+    "spots": []
+  },
+  "白沙黎族自治县": {
+    "province": "海南省",
+    "spots": []
+  },
+  "陵水黎族自治县": {
+    "province": "海南省",
+    "spots": []
+  },
+  "仙桃市": {
+    "province": "湖北省",
+    "spots": []
+  },
+  "十堰市": {
+    "province": "湖北省",
+    "spots": []
+  },
+  "咸宁市": {
+    "province": "湖北省",
+    "spots": []
+  },
+  "天门市": {
+    "province": "湖北省",
+    "spots": []
+  },
+  "孝感市": {
+    "province": "湖北省",
+    "spots": []
+  },
+  "恩施土家族苗族自治州": {
+    "province": "湖北省",
+    "spots": []
+  },
+  "潜江市": {
+    "province": "湖北省",
+    "spots": []
+  },
+  "神农架林区": {
+    "province": "湖北省",
+    "spots": []
+  },
+  "荆州市": {
+    "province": "湖北省",
+    "spots": []
+  },
+  "荆门市": {
+    "province": "湖北省",
+    "spots": []
+  },
+  "襄阳市": {
+    "province": "湖北省",
+    "spots": []
+  },
+  "鄂州市": {
+    "province": "湖北省",
+    "spots": []
+  },
+  "随州市": {
+    "province": "湖北省",
+    "spots": []
+  },
+  "黄冈市": {
+    "province": "湖北省",
+    "spots": []
+  },
+  "黄石市": {
+    "province": "湖北省",
+    "spots": []
+  },
+  "娄底市": {
+    "province": "湖南省",
+    "spots": []
+  },
+  "岳阳市": {
+    "province": "湖南省",
+    "spots": []
+  },
+  "常德市": {
+    "province": "湖南省",
+    "spots": []
+  },
+  "怀化市": {
+    "province": "湖南省",
+    "spots": []
+  },
+  "株洲市": {
+    "province": "湖南省",
+    "spots": []
+  },
+  "永州市": {
+    "province": "湖南省",
+    "spots": []
+  },
+  "湘潭市": {
+    "province": "湖南省",
+    "spots": []
+  },
+  "湘西土家族苗族自治州": {
+    "province": "湖南省",
+    "spots": []
+  },
+  "益阳市": {
+    "province": "湖南省",
+    "spots": []
+  },
+  "衡阳市": {
+    "province": "湖南省",
+    "spots": []
+  },
+  "邵阳市": {
+    "province": "湖南省",
+    "spots": []
+  },
+  "郴州市": {
+    "province": "湖南省",
+    "spots": []
+  },
+  "临夏回族自治州": {
+    "province": "甘肃省",
+    "spots": []
+  },
+  "嘉峪关市": {
+    "province": "甘肃省",
+    "spots": []
+  },
+  "天水市": {
+    "province": "甘肃省",
+    "spots": []
+  },
+  "定西市": {
+    "province": "甘肃省",
+    "spots": []
+  },
+  "平凉市": {
+    "province": "甘肃省",
+    "spots": []
+  },
+  "庆阳市": {
+    "province": "甘肃省",
+    "spots": []
+  },
+  "张掖市": {
+    "province": "甘肃省",
+    "spots": []
+  },
+  "武威市": {
+    "province": "甘肃省",
+    "spots": []
+  },
+  "甘南藏族自治州": {
+    "province": "甘肃省",
+    "spots": []
+  },
+  "白银市": {
+    "province": "甘肃省",
+    "spots": []
+  },
+  "酒泉市": {
+    "province": "甘肃省",
+    "spots": []
+  },
+  "金昌市": {
+    "province": "甘肃省",
+    "spots": []
+  },
+  "陇南市": {
+    "province": "甘肃省",
+    "spots": []
+  },
+  "三明市": {
+    "province": "福建省",
+    "spots": []
+  },
+  "南平市": {
+    "province": "福建省",
+    "spots": []
+  },
+  "宁德市": {
+    "province": "福建省",
+    "spots": []
+  },
+  "漳州市": {
+    "province": "福建省",
+    "spots": []
+  },
+  "莆田市": {
+    "province": "福建省",
+    "spots": []
+  },
+  "龙岩市": {
+    "province": "福建省",
+    "spots": []
+  },
+  "山南市": {
+    "province": "西藏自治区",
+    "spots": []
+  },
+  "日喀则市": {
+    "province": "西藏自治区",
+    "spots": []
+  },
+  "昌都市": {
+    "province": "西藏自治区",
+    "spots": []
+  },
+  "那曲市": {
+    "province": "西藏自治区",
+    "spots": []
+  },
+  "阿里地区": {
+    "province": "西藏自治区",
+    "spots": []
+  },
+  "六盘水市": {
+    "province": "贵州省",
+    "spots": []
+  },
+  "安顺市": {
+    "province": "贵州省",
+    "spots": []
+  },
+  "毕节市": {
+    "province": "贵州省",
+    "spots": []
+  },
+  "遵义市": {
+    "province": "贵州省",
+    "spots": []
+  },
+  "铜仁市": {
+    "province": "贵州省",
+    "spots": []
+  },
+  "黔东南苗族侗族自治州": {
+    "province": "贵州省",
+    "spots": []
+  },
+  "黔南布依族苗族自治州": {
+    "province": "贵州省",
+    "spots": []
+  },
+  "黔西南布依族苗族自治州": {
+    "province": "贵州省",
+    "spots": []
+  },
+  "丹东市": {
+    "province": "辽宁省",
+    "spots": []
+  },
+  "抚顺市": {
+    "province": "辽宁省",
+    "spots": []
+  },
+  "朝阳市": {
+    "province": "辽宁省",
+    "spots": []
+  },
+  "本溪市": {
+    "province": "辽宁省",
+    "spots": []
+  },
+  "盘锦市": {
+    "province": "辽宁省",
+    "spots": []
+  },
+  "营口市": {
+    "province": "辽宁省",
+    "spots": []
+  },
+  "葫芦岛市": {
+    "province": "辽宁省",
+    "spots": []
+  },
+  "辽阳市": {
+    "province": "辽宁省",
+    "spots": []
+  },
+  "铁岭市": {
+    "province": "辽宁省",
+    "spots": []
+  },
+  "锦州市": {
+    "province": "辽宁省",
+    "spots": []
+  },
+  "阜新市": {
+    "province": "辽宁省",
+    "spots": []
+  },
+  "鞍山市": {
+    "province": "辽宁省",
+    "spots": []
+  },
+  "咸阳市": {
+    "province": "陕西省",
+    "spots": []
+  },
+  "商洛市": {
+    "province": "陕西省",
+    "spots": []
+  },
+  "安康市": {
+    "province": "陕西省",
+    "spots": []
+  },
+  "宝鸡市": {
+    "province": "陕西省",
+    "spots": []
+  },
+  "延安市": {
+    "province": "陕西省",
+    "spots": []
+  },
+  "榆林市": {
+    "province": "陕西省",
+    "spots": []
+  },
+  "汉中市": {
+    "province": "陕西省",
+    "spots": []
+  },
+  "渭南市": {
+    "province": "陕西省",
+    "spots": []
+  },
+  "铜川市": {
+    "province": "陕西省",
+    "spots": []
+  },
+  "果洛藏族自治州": {
+    "province": "青海省",
+    "spots": []
+  },
+  "海东市": {
+    "province": "青海省",
+    "spots": []
+  },
+  "海北藏族自治州": {
+    "province": "青海省",
+    "spots": []
+  },
+  "海南藏族自治州": {
+    "province": "青海省",
+    "spots": []
+  },
+  "海西蒙古族藏族自治州": {
+    "province": "青海省",
+    "spots": []
+  },
+  "玉树藏族自治州": {
+    "province": "青海省",
+    "spots": []
+  },
+  "黄南藏族自治州": {
+    "province": "青海省",
+    "spots": []
+  },
+  "七台河市": {
+    "province": "黑龙江省",
+    "spots": []
+  },
+  "伊春市": {
+    "province": "黑龙江省",
+    "spots": []
+  },
+  "佳木斯市": {
+    "province": "黑龙江省",
+    "spots": []
+  },
+  "双鸭山市": {
+    "province": "黑龙江省",
+    "spots": []
+  },
+  "大兴安岭地区": {
+    "province": "黑龙江省",
+    "spots": []
+  },
+  "大庆市": {
+    "province": "黑龙江省",
+    "spots": []
+  },
+  "牡丹江市": {
+    "province": "黑龙江省",
+    "spots": []
+  },
+  "绥化市": {
+    "province": "黑龙江省",
+    "spots": []
+  },
+  "鸡西市": {
+    "province": "黑龙江省",
+    "spots": []
+  },
+  "鹤岗市": {
+    "province": "黑龙江省",
+    "spots": []
+  },
+  "黑河市": {
+    "province": "黑龙江省",
+    "spots": []
+  },
+  "齐齐哈尔市": {
+    "province": "黑龙江省",
+    "spots": []
+  }
+}
