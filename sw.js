@@ -1,6 +1,6 @@
 /* 点亮山河 service worker. VERSION 变化 => 重新预缓存并清理旧缓存。
    足迹数据存在 localStorage / IndexedDB，本文件只缓存静态文件，不会触碰它们。 */
-const VERSION = '22cd58e102';
+const VERSION = '52e7976071';
 const CACHE = 'dianliang-' + VERSION;
 const PRECACHE = [
  "./",
